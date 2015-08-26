@@ -1,0 +1,803 @@
+etp_id,desc,citation,editor,type,location,from,to,text,notes,bibliography
+ETP 1,cover of cinerary urn (stone),SE 69 (2003) REE 11 (tav. XXIV),Paolo Bruschetti,Funerary Texts,Clusium,-200,-100,larθ : raplni :,,
+ETP 2,fragments of bowl (bucchero),SE 69 (2003) REE 15 (tav. XXIV),Giovanni Colonna,Proprietary Texts,Ager Tarquiniensis (San Giovenale),-550,-550,mi v[e]nelus vefunas,"The form of the letter <b>f</b> is noteworthy. It has the basic shape <b>8</b>, but angular, and the bottom portion is incomplete.",
+ETP 3,cover of cinerary urn (stone),SE 69 (2003) REE 10 (tav. XXIII),Paolo Bruschetti,Funerary Texts,Clusium,-200,-100,"larθi : peθnei : frauniσa 
+    laθinial : sec :","Note the spelling of the feminine gentilicium, <b>latini</b>, with the letter <i>theta</i>, <b>laθini</b>.",
+ETP 4,fragment of base of kantharos or kyathos (ceramic),SE 69 (2003) REE 8 (tav. XXIV),Adriano Maggiani,Dedications,Vetulonia,-625,-600,[ - - v]enel p[ - - - ],"The editor suggests that this inscription may be identical to the one incised on the base of a kyathos recovered from Tomb 1 of the Tumulo di S. Paolo at Cerveteri. The inscription from Caere reads as follows: 
+
+<b>[mi]ni venel paiθina[s mu]luv(a)nice</b>.",
+ETP 5,plate (ceramic),SE 69 (2003) REE 2,Stefano Bruni,Proprietary Texts,Pisae,-300,-100,lariσ,,
+ETP 6,kylix (ceramic),SE 56 (1991) REE 1 (tav. LV),Daniele Vitali,Proprietary Texts,Aemilia (Monterenzio/Bologna),-300,-250,petnei,,"<ul><li>
+Vitali, Daniele. 1987. Monte Bibele tra Etruschi e Celti: dati archeologici e interpretazione storica. <i>Celti ed Etruschi nell’Italia centro settentrionale dal V secolo a.C. alla romanizzazione.</i> Bologna. pp. 309-380.</li></ul>"
+ETP 7,fragment of (ceramic),SE 69 (2003) REE 1 (tav. XXII),Stefano Bruni,Abecedaria,Pisae,-550,-450,[ - - - ]x χ f φ χ [ - - - ],The initial part of inscription (a) is the remains of the feminine praenomen <b>ramθa</b>. Inscription (b) is the final segment of what appears to be an abecedarium. Both inscriptions were incised in dextroverse direction.,
+ETP 8,cippus (marble),SE 69 (2003) REE 3 (tav. XXII 3a,Stefano Bruni,Funerary Texts,Ager Pisanus (Latignano di Cascina),-600,-500,mi [ - - - ],,
+ETP 9,fragment of kylix (ceramic),SE 69 (2003) REE 4 (tav. XXII),Stefano Bruni,Proprietary Texts,Faesulae,-480,50,rarulpuia,,
+ETP 10,fragment of bowl (ceramic),SE 69 (2003) REE 7 (tav. XXIII),Guido Bandinelli,Proprietary Texts,Saena,-630,-600,[ - - - ]χnix[ - - - ],The inscription was incised in dextroverse direction.,
+ETP 11,slab (stone),SE 69 (2003) REE 9 (tav. XXIII),Mario Cygielman,Other/Unclear Texts,Vetulonia,-300,-200,"[ - - - ]nes funa heχze
+    [ - - - ]σis
+    [ - - - ]ke","The editor reads the second word of line one as <b>θuna</b>, with initial <i>theta</i>, but the top portion of the letter <b>f</b> appears in the photograph, and is actually sketched out in the drawing published in SE.",
+ETP 12,oinochoe (ceramic),SE 69 (2003) REE 12 (tav. XXIV),Paolo Bruschetti - Adriano Maggiani,Didaskalia,Ager Volsiniensis (Parrano),-700,-480,[a]χmemnun,The inscription was incised on the torso of a figure seated on a stool.,
+ETP 13,wall of tomb (tufa),SE 69 (2003) REE 13,Giovanni Colonna,Funerary Texts,Ager Volcentanus (Poggio Buco),-480,50,"aspaσ [<i>vacat</i>] ⅩⅬ 
+    θ",The text appears to be a funerary inscription. The editor suggests the following interpretation: <b>σ(e)θ(re) aspa ⅩⅬ</b>.,
+ETP 14,fragment of sarcophagus (nenfro),SE 69 (2003) REE 18 (tav. XXIV),Daniele Maras,Funerary Texts,Ager Tarquiniensis (Cencelle),-480,50,"[ - - - ]elcial c[lan]
+    [ - - - avils - - -]em ceal[χls]",The editor suggests that the feminine gentilicium in line 1 can be restored as <b>[v]elcial</b> or as <b>[f]elcial</b>. The latter is well documented as a name at Tarquinia in the 4th and 3rd century B.C.,
+ETP 15,Attic skyphos (ceramic),SE 69 (2003) REE 26 (tav. XXVI),Daniele Maras,Prohibitions,Pyrgi,-500,-450,[cav]aθas mi seχis ein men[p]e kape mi nunax,,
+ETP 16,vase (ceramic),SE 69 (2003) REE 27 (tav. XXVI),Daniele Maras,Religious Texts,Pyrgi,-500,-450,mi χavexx,The final portion of the inscription could read either <b>χaves</b> or <b>χavexs</b>.,
+ETP 17,Attic kylix (ceramic),SE 69 (2003) REE 28 (tav. XXVI),Daniele Maras,Religious Texts,Pyrgi,-500,-450,mi cavaθa[s],,
+ETP 18,fragment of amphora (ceramic),SE 69 (2003) REE 24 (tav. XXV),Daniele Maras,Religious Texts,Pyrgi,-500,-450,σur[ - - - ],The inscription was written in dextroverse direction.,
+ETP 19,cup (ceramic),SE 69 (2003) REE 25 (tav. XXVI),Daniele Maras,Religious Texts,Pyrgi,-500,-450,arφial ·,The inscription was painted in circular ductus on the bottom of a bowl belonging to the <i>Spurinas</i> type.,
+ETP 20,Attic kylix (ceramic),SE 69 (2003) REE 29 (tav. XXVII),Giovanni Colonna,Dedications,Pyrgi,-500,-450,"etun hercles carucra
+    II","Presumably, the verb <b>turce</b> is to be supplied.",
+ETP 21,Attic amphora (ceramic),SE 69 (2003) REE 56 (tav. XXXII),Dominique Briquel,Proprietary Texts,Unknown (South),-525,-500,aranθ pecenas,,
+ETP 22,Attic oinochoe (ceramic),SE 69 (2003) REE 30 (tav. XXVII),Daniele Maras,Other/Unclear Texts,Pyrgi,-450,-450,zilc,"According to the editor, the letter following gamma could be <i>lambda</i> or <i>iota</i>. Restoration of <i>iota</i> yields a locative case form <b>zilci</b>.",
+ETP 23,Attic kylix (ceramic),SE 69 (2003) REE 31 (tav. XXVII),Daniele Maras,Religious Texts,Pyrgi,-500,-400,cavaθas,,
+ETP 24,Attic skyphos (ceramic),SE 69 (2003) REE 32 (tav. XXVII),Daniele Maras,Other/Unclear Texts,Pyrgi,-450,-400,"inθs
+    me",Fragment of Attic skyphos.,
+ETP 25,fragment of cup (ceramic),SE 69 (2003) REE 33 (tav. XXVII),Daniele Maras,Other/Unclear Texts,Pyrgi,-450,-400,ricin,It's possible that the inscription is to be restored as <b>vestricina</b>. This gentilicium is found in other inscriptions from this area.,
+ETP 26,fragment of olla (impasto),SE 69 (2003) REE 34 (tav. XXVIII),Daniele Maras,Religious Texts,Pyrgi,-450,-400,mi cavuθas,,
+ETP 27,lamina (lead),SE 69 (2003) REE 55 (tav. XXXIb),Giovanni Colonna - Francesco di Mario,Other/Unclear Texts,Latium (Ardea),-480,50,"vel uθras
+	mlaχ",The final vertical stroke in line 1 is most likely an error.,
+ETP 28,pyxis (bucchero),SE 64 (2001) 201-212 (tav. XXXIII-XXXIV),Larissa Bonfante - Rex Wallace,Proprietary Texts,Unknown,-625,-600,mi sunθeruza spurias mlakas,The inscription was incised around the lip of the pyxis.,"<ul><li>
+Larissa Bonfante - Rex Wallace. 2001. An Etruscan pyxis named <i>sunθeruza</i>. <i>SE</i> 64.201-212.</li></ul>
+<li>Giuliano Bonfante - Larissa Bonfante. 2002. The Etruscan Language: An Introduction, pp. 137-38, no. 10, fig. 16. 2nd edition. Manchester: Manchester University Press. </li>
+<li>Rex Wallace. 2008. Zikh Rasna. A Manual of the Etruscan Language and Inscriptions, pp. 159-60. Ann Arbor: Beech Stave Press. 
+</li>"
+ETP 29,Attic kylix (ceramic),ZPE 111 (1996) 291-294 (tav. IX),Rex Wallace,Dedications,Unknown,-500,-450,[ecn . tur]ce . cavi . cr[ai]culi . hercle.s.,"The first inscription was incised on the bottom of the foot of the kylix along the outer portion of the rim. This inscription belongs to the archaic period and thus sometime shortly after production of the <i>kylix</i>. The second inscription, which is chronologically later and dates to the recent Etruscan period, was incised inside of and parallel to the first inscription. This inscription appears to have been added after the <i>kylix</i> was repaired because of damage to the foot of the vessel.","<ol>
+<li>Heurgon, J. 1989. Graffite etrusques au J. Paul Getty Museum. <i>Greek Vases in the J. Paul Getty Museum</i> 4.181-186.</li>
+<li>Martelli, M. 1991. Dedica Ceretana a Hercle. <i>AC</i> 42.613-621.</li>
+<li>Wallace, R. 1996. Etruscan Inscriptions on an Attic Kylix in the J. Paul Getty Museum: Addenda et Corrigenda. <i>ZPE</i> 111.291-294 (tav. IX).</li>
+</ol>"
+ETP 30,Attic olpe (ceramic),SE 69 (2003) REE 57 (tav. XXXII),Serena Privitera,Other/Unclear Texts,Unknown,-510,-490,tul,The inscription was incised on the bottom of the foot of the vase. A Greek trademark <b>de</b> is also incised there.,
+ETP 31,mirror (bronze),SE 69 (2003) REE 58,Dominique Briquel,Didaskalia,Unknown,-480,50,alθe melacre φurθ,"Four figures incised on the mirror represent the return of Meleager after the hunt for the boar of Calydon.
+
+<b>Alθe</b> is perhaps an abbreviation for <i>Alθea</i>, the mother of Meleager. <b>φurθ</b> is an abbreviation that refers to the grandson of Meleager.  The editor recommends that it be completed as <i>φurθun</i>.",
+ETP 32,cinerary urn (ceramic),SE 69 (2003) REE 60 (tav. XXXII),Dominique Briquel,Funerary Texts,Unknown,-480,50,ar . venate . venun[ias],The inscription was painted in black letters on the cask of the urn. The morphology of the urn points to Chiusi as the place of origin.,
+ETP 33,cinerary urn (ceramic),SE 69 (2003) REE 61 (tav. XXXII),Dominique Briquel - Laurent Hugot,Funerary Texts,Unknown,-480,50,[θa]nia [ - - - ] lat[inial],"The inscription, of which only traces remain, was painted along the upper border of the cask. The reading suggested by the editors is possible, but speculative.",
+ETP 34,cover of cinerary urn (sandstone),SE 63 (1999) REE 1 (tav. XXII),Margherita Scarpellini,Funerary Texts,Ager Cortonensis (Castiglion Fiorentino),-300,-200,vêl : têtn[ie : ] vêlχe[s],The letter <b>ê</b> with diacritic represents an <i>epsilon</i> that is written retrograde with respect to the direction of writing.,
+ETP 35,plate (bucchero),SE 63 (1999) REE 2 (tav. XXII),Margherita Scarpellini,Proprietary Texts,Ager Cortonensis (Castiglion Fiorentino),-600,-500,mi θanuχvilus,,
+ETP 36,fragment of small olla (ceramic),SE 63 (1999) REE 3 (tav. XXII),Margherita Scarpellini,Proprietary Texts,Ager Cortonensis (Castiglion Fiorentino),-300,-200,mi za[ - - - ],The text was painted in black.,
+ETP 37,fragment of cup (ceramic),SE 63 (1999) REE 5 (tav. XXIII),Margherita Scarpellini,Proprietary Texts,Ager Cortonensis (Castiglion Fiorentino),-300,-300,mi aves,,
+ETP 38,fragment of plate (ceramic),SE 63 (1999) REE 6 (tav. XXIII),Margherita Scarpellini,Proprietary Texts,Ager Cortonensis (Castiglion Fiorentino),-250,-200,veθalus,,
+ETP 39,cup (ceramic),SE 63 (1999) REE 4 (tav. XXII),Margherita Scarpellini,Proprietary Texts,Ager Cortonensis (Castiglion Fiorentino),-300,-300,mi a,,
+ETP 40,cinerary urn,SE 63 (1999) REE 7 (tav. XXIII),Giulio Paolucci,Abecedaria,Ager Clusinus (Chiaciano Terme),-500,-500,a e v z h θ,The text was incised in the upper lefthand portion of the front of the cask.,
+ETP 41,cippus (sandstone),SE 63 (1999) REE 11 (tav. XXIII),Giovanni Colonna,Funerary Texts,Clusium,-700,-480,velχe : [ - - - ],Punctuation is in the form of three puncts aligned vertically.,
+ETP 42,circular slab (stone),SE 63 (1999) REE 8 (tav. XXIII),Giulio Paolucci,Abecedaria,Ager Clusinus (Chiaciano Terme),-520,-500,a c e v z h,The abecedarium was incised in dextrograde ductus.,
+ETP 43,cippus (stone),SE 63 (1999) REE 9 (tav. XXIV),Giulio Paolucci,Funerary Texts,Ager Clusinus (Chiaciano Terme),-550,-500,mi lauχumeσa katilas,The inscription was incised in spiraliform ductus.,
+ETP 44,cinerary urn (travertine),SE 63 (1999) REE 10 (tav. XXIII),Ole Hjordt-Vetlesen,Funerary Texts,Ager Clusinus (Sarteano),-100,-100,l · arntni · vmranal,Note the spelling of the vowel /u/ by means of <i>wau</i>.,
+ETP 45,tablet (bronze),SE 63 (1999) REE 12 (tav. XXV),Mario Cygielman,Other/Unclear Texts,Vetulonia,-200,-200,"[ - - - ]pin[ - - - ]
+[ - - - ]σval[ - - - ]
+    [ - - ]a · nap[ - - - ]
+    [ - - - ]rins[ - - -]","The tablet was found a short distance from a tomb, so it's possible that the text is a <i>lex sepulcralis</i>.
+
+Line 1 is separated from lines 2-4 by spacing, a feature that suggests that line 2 was the beginning of a new section.","<ol>
+<li>Angeletti, Maristella Pandolfini. 2002. Le tavole di bronzo in Etruria. In <i>La Tabula Cortonensis e il suo contesto storico-archeologico. Atti dell'Incontro di studio (22 giugno 2001), pp. 53-64. Roma: Consiglio Nazionale delle Ricerche.</i>
+</li>
+</ol>"
+ETP 46,sarcophagus (peperino),SE (1999) REE 13 (tav. XXV),Giovanni Colonna,Funerary Texts,Tarquinia,-300,-300,[ - - - ]an : ecnatia[l - - - ],The editor restores the beginning of fragment as <b>[cl]an</b> 'son'.,
+ETP 47,wall of tomb (stone),SE 63 (1999) REE 14 (tav. XXV),Massimo Morandi,Funerary Texts,Tarquinia,-700,-480,petui [:] nanisiei,The form of the punctuation between the first name and the last is uncertain. This inscription was incised in the same tomb chamber as ETP 48.,
+ETP 48,wall of tomb (stone),SE 63 (1999) REE 15 (tav. XXV),Massimo Morandi,Funerary Texts,Tarquinia,-700,-480,velχasnas,This inscription was incised in the same tomb chamber as ETP 47.,
+ETP 49,wall of tomb (stone),SE 63 (1999) REE 16 (tav. XXV),Massimo Morandi,Funerary Texts,Tarquinia,-480,50,"vel[ - - - ]
+    LI","The text was painted in black on the wall of chamber 1 in the Tomba dell'Orco.
+
+The editor suggests that the name in line 1 may be restored as <b>vel[θur]</b> or as <b>vel[χa]</b>. The number <b>LI</b> refers to the age of the deceased.",
+ETP 50,sarcophagus (nenfro),SE 63 (1999) REE 17 (tav.XXV),Massimo Morandi,Funerary Texts,Tarquinia,-330,-300,[ - - - ] arnθal : seχ [:] atial,,
+ETP 51,sarcophagus (nenfro),SE 63 (1999) REE 18 (tav.XXIX),Massimo Morandi,Funerary Texts,Tarquinia,-340,-330,"camnas vel
+    larθal",,
+ETP 52,cippus (stone),SE 63 (1999) REE 19 (tav. XXVI),Massimo Morandi,Funerary Texts,Tarquinia,-250,-250,"sepres · a · a · VI
+    svalce · avil · XL",,
+ETP 53,cippus (nenfro),SE 63 (1999) REE 20 (tav. XXVI),Massimo Morandi,Funerary Texts,Tarquinia,-480,50,"velχi θan
+    a","The final letter of the first name of the deceased, which was partially damaged by a break in the stone, appears in line 2.",
+ETP 54,bowl (ceramic),SE 65-68 (2002) REE 1 (tav. XXX),Francesca Piva,Proprietary Texts,Venetia (Adria),-150,-150,me,The editor thinks that <b>me</b> may be an abbreviation for the name <b>meis</b>.,
+ETP 55,bowl (ceramic),SE 65-68 (2002) REE 4,Francesca Piva,Proprietary Texts,Venetia (Adria),-150,-100,uniθiu,,
+ETP 56,plate (ceramic),SE 65-68 (2002) REE 3 (tav. XXX),Francesca Piva,Proprietary Texts,Venetia (Adria),-300,-250,tutis,The final letter is a three-bar <i>sigma</i>.,
+ETP 57,bowl (ceramic),SE 65-68 (2002) REE 2 (tav. XXX),Francesca Piva,Proprietary Texts,Venetia (Adria),-300,-300,tite,,
+ETP 58,cippus (nenfro),SE 63 (1999) REE 21 (tav. XXVI),Massimo Morandi,Funerary Texts,Tarquinia,-480,50,nan[ - - - ],,
+ETP 59,cippus (nenfro),SE 63 (1999) REE 22 (tav. XXVI),Massimo Morandi,Funerary Texts,Tarquinia,-250,-250,"curs[ni]
+    θana",,
+ETP 60,stone cippus,SE 63 (1999) REE 23 (tav. XXVI),,Construction Texts,Tarquinia,-300,-200,"[v]elθri[es · ] a 
+    [a]rce · ta[m]er 
+    [a · ] ril · L",,
+ETP 61,block (stone),SE 63 (1999) REE 24 (tav. XXVI),Massimo Morandi,Other/Unclear Texts,Tarquinia,-500,-400,hursu[mnas - - - ],"The editor restores the missing portion of the family name based on <b>ursumnas</b>, which is attested at Tarquinia, though without word-initial <b>h</b>.
+
+It is possible that this inscription was incised on a stone block that formed the architrave of a chamber tomb. However, the stone was actually discovered in an urban context and this does not jibe with a funereal function for the text.",
+ETP 62,fragment of cippus (stone),SE 63 (1999) REE 25 (tav. XXVI),Massimo Morandi,Funerary Texts,Tarquinia,-500,-500,[ - - - ]lus · cles[ - - - ],"The stone was squared off and placed in the wall of a convent. Possible restorations for the first word are <b>[vene]lus</b> and <b>[θanaχvi]lus</b>, both genitive singular forms. How <b>cles[ - -  - ]</b> is to be restored is unclear.",
+ETP 63,wall of tomb (stone),SE 63 (1999) REE 26,Massimo Morandi,Funerary Texts,Tarquinia,-480,50,ramθa · camnai,,
+ETP 64,wall of tomb (stone),SE 63 (1999) REE 27,Massimo Morandi,Funerary Texts,Tarquinia,-480,50,vel : vestrcnie,,
+ETP 65,plate (impasto),SE 63 (1999) REE 28 (tav. XXVII),Giovanni Colonna,Proprietary Texts,Caere,-625,-600,hetaθaσa,The inscription was incised in dextroverse direction. The <i>sigma</i> spelling the palatal sibilant /š/ has four bars.,
+ETP 66,cup (ceramic),SE 63 (1999) REE 30 (tav. XXVII),Pietro Tamburini,Proprietary Texts,Ager Caeretanus (San Giuliano),-600,-550,zureθ,,
+ETP 67,cup (ceramic),SE 63 (1999) REE 31 (tav. XXVII),Barbara Grassi,Proprietary Texts,Campania (Capua),-550,-500,mi laivuzas,,
+ETP 68,fragment of cup (bucchero),SE 63 (1999) REE 32 (tav. XXVII),Valentina Cosentini,Proprietary Texts,Campania (Capua),-530,-470,mi larices,,
+ETP 69,amphora (ceramic),SE 63 (1999) REE 33 (tav. XXVII),Giovanni Colonna,Religious Texts,Campania (Pontecagnano),-550,-500,manθ,,
+ETP 70,olpe (bronze),SE 63 (1999) REE 34 (tav. XXVIII),Maurizio Sannibale,Proprietary Texts,Campania (unknown),-475,-450,m[i c]naives tinθuruσla,,
+ETP 71,cista (bronze),SE 63 (1999) REE 35 (tav. XXVIII),Alessandro Naso,Funerary Texts,Unknown,-300,-300,σu[θina],,
+ETP 72,bowl (ceramic),SE 63 (1999) REE 36 (tav. XXVIII),Giovanni Colonna,Proprietary Texts,Unknown S,-500,-400,larθ velarnies,,
+ETP 73,bowl (bucchero),SE 63 (1999) REE 37 (tav. XXVIII),Dominique Briquel,Proprietary Texts,Unknown (South),-500,-500,qurianas,,
+ETP 74,tablet (bronze),2000. Tabula Cortonensis (tav. 1-35),Luciano Agostiniani - Francesco Nicosia,Legal Texts,Cortona,-300,-200,"Side A:
+ e{.}t · pêtruis σcê [<i>vacat</i>] vês êliunts · v<br/>
+ inac · restmc · cen [<i>vacat</i>] u · tênθur sar · cuσ<br/>
+ uθuras · lariσaliσvla · peσc · σpante · tênθur ·<br/>
+ sa · sran · sarc · clθil · têrσna · θui · σpanθi · ml<br/>
+ esiêθic · rasna ΣIII&amp;gt; [<i>vacat</i>] inni · peσ · pêtrus · pav<br/>
+ ac · traulac · tiur · tênθurc · tênθa · zacinat · pr<br/>
+ iniserac · zal // cs · êsis · vêrê cuσuθursum · p<br/>
+ eσ · pêtrusta · σceva [s] // nuθantur · lart · petr<br/>
+ uni · arnt · pini · lart · vipi · luσce · lariσ · σalini · v<br/>
+ êtnal · lart · vêlara · larθaliσa · lart · vêlara<br/>
+ auleσa · vel · pumpu · pruciu · aule · cêlatina · σê<br/>
+ tmnal · arnza · fêlσni · vêlθinal · vêl · luiσna<br/>
+ lusce · vêl · uσlna · nufreσa · laru · σlanzu · larz<br/>
+ a lartle vêl aves arnt · pêtru · raufe // êpru<br/>
+ s · ame · velχe · cuσu lariσal · cleniarc · lariσ<br/>
+ cuσu · lariσaliσa larizac · clan · lariσal · pêtr<br/>
+ u · σcêvas · arntlei · pêtrus · puia [<i>vacat</i>]<br/>
+ cên · zic · ziχuχe · σparzêstis · sazleis · in<br/>
+ θuχti · cuσuθuras · σuθiu · ame · tal · σuθive<br/>
+ nas · ratm · θuχt . cesu · tltel · têi · σians · σpa<br/>
+ rzête · θui · σalt · zic · fratuce · cuσuθurus · la<br/>
+ riσaliσvla · pêtrusc · σcêvas · peσs · tarχian<br/>
+ es // cnl · nuθe · malec · lart · cucrina · lauσiσa ·<br/>
+ zilaθ · meχl · rasnal · l[a]riσ · cêlatina lau<br/> 
+ σa [cl]anc · arnt · luσcni · [a]rnθal · clanc · larz<br/>
+ a · lart · turnma · σalina[l - - - a]<br/>
+ pnal · cleniarc · velχe [ - - - papal]<br/>
+ serc · vêlχe · cuσu · aule[σa - - - ]<br/>
+ aninalc · lariσ · fuln[i - - - ]<br/>
+ rc · lart · pêtce · uσlnal [ · - - - ]<br/>
+ inaθur · têcσinal · vel[ - - - ]<br/>
+ us · lariσc · cuσu · uσlna[l - - - ]<br/>
+
+
+Side B:
+
+ aule σalini [<i>vacat</i>] cuσual [<i>vacat</i>]<br/>
+ zilci · larθal · c [<i>vacat</i>] uσus · titlnal<br/>
+ lariσalc · σalinis auleσla · celtinêitiσ<br/>
+ s · tarσminass · σparza · in · θuχt cesu<br/>
+ ratm · σuθiu · σuθiuσvê · velχes · cuσus a<br/>
+ uleσla · velθurus · titlnis · velθuruσla . <br/>
+ larθalc · cêlatinas apnal · lariσalc cê<br/>
+ latinas · titlnal<br/>","We follow the text as published in Maggiani 2001, pp. 95-96. There are 7 sections. These are indicated in four cases (Side A, lines 7, 8, 14, and 23) by special signs, which we transliterate as <b>//</b>. In two instances ample spacing between words (Side A, line 17 and Side B, line 1) signals a new section. Missing portions of text are restored according to suggestions offered by Agostiniani &amp;amp; Nicosia 2000.","<ol>
+<li>Agostiniani, Luciano &amp;amp; Francesco Nicosia. 2000. <i>Tabula Cortonensis</i>. Roma: ""L'Erma"" di Bretschneider.</li>
+<li>De Simone, C. 1998 [2000]. La Tabula Cortonensis: Tra linguistica e storia. <i>Annali della Scuola Normale Superiore di Pisa.  Classe di lettere e filosofia</i>  3.1-122.</li>
+
+<li> —. 2001-2002. Il testo etrusco della Tabula Cortonensis: un primo bilancio critico. <i>Ocnus</i> 9-10.69-111.</li>
+
+<li> —. 2002. Su due termini della Tabula Cortonensis. <i> Incontri Linguistici</i> 25.77-85.</li>
+
+<li>Eichner, Heiner. 2001. Etruskisch <i>-svla</i> auf der Bronze von Cortona. In F. Cavoto, ed., <i>The Complete Linguist. A collection of papers in honor of Alexis Manaster Ramer</i>, pp. 141-152. Münich. </li>
+
+<li> Facchetti, Giulio. 2000. <i> Frammenti di diritto privato etrusco</i>. Firenze: Leo S. Olschki.</li>
+
+<li>Maggiani, Adriano. 2001. Dagli  archivi dei Cusu.  Considerazioni sulla tavola bronzea di Cortona. <i>Rivista di Archeologia</i> 25.94-114.</li>
+
+<li>Pandolfini, Maristella &amp;amp; Adriano Maggiani, eds. 2002. <i>La Tabula Cortonensis e il suo contesto storico-archaeologico.  Atti dell’Incontro di studio, 22 giugno 2001</i>. Rome: Consiglio Nazionale delle Ricerche.</li>
+<li>Rix, Helmut. 2000. Osservazioni preliminari ad una interpretazione dell’aes cortonense. <i>Incontri linguistici</i> 23.11-31.</li>
+<li>Wylin, Koen. 2002. Forme verbali nella Tabula Cortonensis. <i>Studi Etruschi</i> 65-68.215-223.</li>
+<li>Zamboni, A. 2002. Sigla del quattuorvirato nella tavola di Cortona. <i>Athenaeum</i> 90.431-441.</li>
+</ol>
+
+In the book of papers edited by Pandolfini &amp;amp; Maggiani (2002), the most important papers dealing with the interpretation of the Tabula are: 
+
+<ul>
+<li>Facchetti, Giulio. 2002. La Tabula Cortonensis come documento giuridico. In Pandolfini, Maristella &amp;amp; Adriano Maggiani, eds. 2002. <i>La Tabula Cortonensis e il suo contesto storico-archaeologico.  Atti dell’Incontro di studio, 22 giugno 2001</i>, pp.  87-99. Rome: Consiglio Nazionale delle Ricerche.</li>
+
+<li>Maggiani, Adriano. 2002. Riflessioni sulla Tavola di Cortona. Pandolfini, Maristella &amp;amp; Adriano Maggiani, eds. 2002. <i>La Tabula Cortonensis e il suo contesto storico-archaeologico.  Atti dell’Incontro di studio, 22 giugno 2001</i>, pp. 65-75. Rome: Consiglio Nazionale delle Ricerche.</li>
+
+<li>Rix, Helmut. 2002. La seconda metà del nuovo testo di Cortona. In Pandolfini, Maristella &amp;amp; Adriano Maggiani, eds. 2002. <i>La Tabula Cortonensis e il suo contesto storico-archaeologico.  Atti dell’Incontro di studio, 22 giugno 2001</i>, pp. 77-86. Rome: Consiglio Nazionale delle Ricerche.</li>
+</ul>"
+ETP 75,wall of tomb (stone),SE 63 (1999) REE 41 (tav. XXX),Massimo Morandi,Funerary Texts,Tarquinia,-350,-300,"[ - - - ]n[ . . . . ]a[ . . . ]a[ . ]ce[ . . . . . ]
+    [ - - - ] tence [:] zi[l]cti [ - - - ]
+    [ - - - ]rac [:] ravlaθ : acn[anas - - - ]
+[ - - - ]",The funerary inscription is in the form of an elogium.,"<ol>
+<li>Cavagnaro Vanoni, L. 1996. <i>Tombe tarquiniesi di eta ellenistica</i>. Roma.</li>
+</ol>
+
+For discussion of the inscriptions see Appendix II by M. Pandolfini Angeletti, pp. 371-374."
+ETP 76,wall of tomb (stone),SE 63 (1999) REE 42 (tav. XXX),Massimo Morandi,Funerary Texts,Tarquinia,-350,-300,"[ . . . . . . . . : ] a[r]n[θ : ] mulaθ [ : ] arnθal : cla[n]
+    [ . . . . . . ]c : a[ti]a[l : ] zilc[ti :] θelmizas [ : ] s[p]ural : fasci
+    [ . . . . . . . . : ] mulauc [ : ] ten[ce : ] avil : θu [ : c]ealc
+    [ - - - ]","The text, which details the political career of the deceased (<i>cursus honorum</i>), is painted in black over an earlier inscription that it obliterates. 
+
+
+Bibliography:
+<ol>
+<li>Cavagnaro Vanoni, L. 1996. Tombe tarquiniesi di eta ellenistica. Roma.</li>
+</ol>
+
+For discussion of the inscriptions see Appendix II by M. Pandolfini Angeletti, pp. 371-374.",
+ETP 77,wall of tomb (stone),SE 63 (1999) REE 43,Massimo Morandi,Funerary Texts,Tarquinia,-350,-300,"[ - - - ]
+    xeri : spu[reri - - - ]
+    [ - - - ]cs[ - - - ]",This text was painted in black. It seems likely that this text presented the <i>cursus honorum</i> of the deceased.,
+ETP 78,cippus (stone),SE 63 (1999) REE 44,Massimo Morandi,Funerary Texts,Tarquinia,-300,-100,"alσinas
+    xlx XX",,
+ETP 79,small jug (ceramic),SE 63 (1999) REE 48,Daniele Maras,Proprietary Texts,Veii,-300,-200,mi tiu,,
+ETP 80,cup (ceramic),SE 63 (1999) REE 49,Rex Wallace,Proprietary Texts,"Campania (Pompeii),",-9999,9999,pleniiunas,,"<ul><li>
+Blanck, Horst. 1996. <i>Studi Etruschi</i> 61, REE 5.</li></ul>"
+ETP 81,oenochoe (ceramic),SE 63 (1999) REE 50,Dominique Briquel,Other/Unclear Texts,Unknown (Narce ?),-550,-520,mi cipaχ,,
+ETP 82,mirror (bronze),SE 63 (1999) REE 53,Adriano Maggiani,Didaskalia,Unknown S,-350,-300,zipunun prucnalu θalna,,"<ol>
+<li>Bonfante, Larissa. 1997. Corpus Speculorum Etruscorum, USA 3: New York, The Metropolitan Museum of Art. Roma: ""L'Erma"" di Bretschneider.</li>
+</ol>"
+ETP 83,oenochoe (ceramic),Etruscan News 3 (2003) 7 &amp; 10,Dominique Briquel,Proprietary Texts,Unknown S,-450,-400,mi arnθial tetnies σuθiθi velclθi,"Although the find spot of this inscription is unknown, there can be no doubt that the provenance is Vulci. The final word in the text is the locative form of the name of the city, <b>velclθi</b> = 'in Vulci'.","<ul>
+<li>
+Briquel, Dominique. 2003. An inscribed Etruscan <i>Schnabelkanne</i> in the Museum of Montpellier (France). 
+<i>Etruscan News</i> 3.7 &amp;amp; 10.</li>
+<li>Colonna, Giovanni. 2004. <i>SE</i> 70, REE 89, 357.</li>
+</ul>"
+ETP 84,ceramic amphora,AC (1995) 47.261-266,Giovanni Colonna,Other/Unclear Texts,Ager Caeretanus (Castellina del Marangone),-350,-300,"vel : flere [ : - - - ]
+    [ - - - ] veluske : [ - - - ]","The text was painted on the shoulder of the amphora, which is fragmentary. The editor notes that the orthography (<b>k</b> before <b>e</b>) and the family name <b>flere</b> point to Volsinii as the source for the amphora and the inscription. The editor suggests that the two persons named here were magistrates at Volsinii and that their names served to date the year the wine was produced.","<ul>
+<li>
+Colonna, Giovanni. 1995. Anfora vinaria con iscrizione etrusca dalla Castellina del Marangone. <i>AC</i> 47.261-266.</li>
+</ul>"
+ETP 85,bowl (ceramic),AION(ling) 14 (1992) 203-206,Luigi Pedroni,Proprietary Texts,Campania (unknown),-350,-300,truχiles,"Bibligraphy:
+<ul><li>
+Pedroni, Luigi. 1992. Un graffito etrusco dalla Campania. <i>AION(ling)</i> 14.203-206.</li></ul>",
+ETP 86,cinerary urn,SE 69 (2003) REE 63,Adriano Maggiani,Funerary Texts,Ager Volaterranus (Colle Valdelsa),-500,-500,mi venelus σ{:}hekuntenas,,"<ul><li>
+
+Cianferoni, G. C. 2002. L'Alta Valdelsa in età orientalizzante e arcaica. M. Manganelli - E. Pacchiani (eds.), <i>Città e territorio in Etruria. Per una definizione di città nell'Etruria settentrionale</i>, 83-126. Colle di Valdelsa.</li></ul>"
+ETP 87,cinerary urn (tufa),SE 69 (2003) REE 64,Adriano Maggiani,Funerary Texts,Ager Volaterranus (Colle Valdelsa),-500,-500,m[i a]runθia hevxle,,"<ul><li>
+
+Cianferoni, G. C. 2002. L'Alta Valdelsa in età orientalizzante e arcaica. M. Manganelli - E. Pacchiani (eds.), <i>Città e territorio in Etruria. Per una definizione di città nell'Etruria settentrionale</i>, 83-126. Colle di Valdelsa.</li></ul>"
+ETP 88,Attic amphora (ceramic),SE 69 (2003) REE 76,Giovanni Colonna,Proprietary Texts,Vulci,-510,-500,faltu,,
+ETP 89,cup (impasto),SE 69 (2003) REE 78,Giovanni Colonna,Proprietary Texts,Ager Caeretanus (Tolfa),-600,-600,cua,,"<ol>
+<li>SE 58 (1993) REE 25.</li>
+</ol>"
+ETP 90,applique (ceramic),SE 69 (2003) REE 79 (tav. XXXIV),Daniele Maras,Artisans' Texts,Falerii (Cività Castellana),-300,-250,evrs · ci,"The inscription was incised on the back side of a ceramic ornament in the form of a standing woman. The inscription appears to be the name of the artisan responsible for the piece or perhaps the workshop in which it was produced. <b>evrs</b> is probably a name borrowed from Greek, viz., Εὕρυς. What the number <b>ci</b> 
+'three' refers to in this case is not clear to me.",
+ETP 91,small amphora (ceramic),SE 69 (2003) REE 80,Giovanni Colonna,Abecedaria,Veii,-675,-650,a b c d,<i>Alpha</i> is tilted onto its left side. <i>Beta</i> and <i>delta</i> are in dextrograde ductus.,
+ETP 92,bowl (ceramic),SE 65-68 (2002) REE 5 (tav. XXX),Francesca Piva,Proprietary Texts,Venetia (Adria),-250,-250,[ - - - ]kalu,,
+ETP 93,pyxis (ceramic),SE 65-68 (2002) REE 6 (tav. XXX),Francesca Piva,Proprietary Texts,Venetia (Adria),-200,-200,spiu,,
+ETP 94,plate (ceramic),SE 65-68 (2002) REE 7 (tav. XXX),Francesca Piva,Proprietary Texts,Venetia (Adria),-200,-200,uniθiu,,
+ETP 95,plate (ceramic),SE 65-68 (2002) REE 9 (tav. XXX),Francesca Piva,Proprietary Texts,Venetia (Adria),-300,-250,atakus,The two inscriptions were incised on the bottom of the bowl directly opposite one another.,
+ETP 96,plate (ceramic),SE 65-68 (2002) REE 10 (tav. XXX),Francesca Piva,Proprietary Texts,Venetia (Adria),-300,-250,laris atiu,,
+ETP 97,plate (ceramic),SE 65-69 (2002) REE 11 (tav. XXX),Francesca Piva,Proprietary Texts,Venetia (Adria),-250,-150,{e} mi karku[ - - - ],,
+ETP 98,bowl (ceramic),SE 65-68 (2002) REE 12 (tav. XXX),Francesca Piva,Proprietary Texts,Venetia (Adria),-300,-300,[ - - - ]s ta mi,The editor suggests the following restoration for the text: <b>[kavi]s ta mi</b>.,
+ETP 99,bowl (ceramic),SE 65-68 (2002) REE 13 (tav. XXX),Francesca Piva,Proprietary Texts,Venetia (Adria),-250,-250,atakus,,
+ETP 100,bowl (ceramic),SE 65-68 (2002) REE 16 (tav. XXXI),Marisa Buonamici,Proprietary Texts,Ager Pisanus (Massarosa),-500,-450,larθia,,
+ETP 101,bowl (ceramic),SE 65-68 (2002) REE 125,Francesca Piva,Proprietary Texts,Venetia (Adria),-200,-150,ceisei,The inscription was incised in dextrograde ductus.,"<ol>
+<li>Maggiani, Adriano. 2000. <i>Hesperia</i> 12, 95.</li>
+</ol>"
+ETP 102,jar (ceramic),SE 65-68 (2002) REE 128,Giovanni Colonna,Proprietary Texts,Ager Saenensis (La Piana),-350,-200,mi arzal [ - - - ],,"Whitehead, Jane K. 1994. <i>Etruscan Studies</i> I, 135."
+ETP 103,fragment of dolium (ceramic),SE 65-68 (2002) REE 129,Andrea Ciacci,Proprietary Texts,Ager Saenensis,-100,-80,l · velani · puina,The inscription is stamped on the rim of the jar.,"<ol>
+<li>Ciacci, A. 2000. Un bollo doliare etrusco da Rocchette Pannocchieschi. <i>AnnUnivSiena</i> 21.71-81.</li>
+</ol>"
+ETP 104,olla (ceramic),SE 65-68 (2002) REE 133 (tav. XLI),Giovanni Colonna,Other/Unclear Texts,Ager Tarquiniensis (Luni sul Mignone),-700,-480,[ – – – ]ema an σu[ . . ]rnaxe[ – – – ],"Bibliography:
+<ol>
+<li>Quercioli, M. 2001. Luni sul Mignone: Etruschi e Micenei. A cura di Bettina L. Knapp, <i>Antemnae, Rassegna di archeolgia, arte, storia e letteratura</i> 3.138-143 (fig. 1-5).</li>
+</ol>",
+ETP 105,bowl (ceramic),SE 65-68 (2002) REE 134,Giovanni Colonna,Proprietary Texts,Ager Tarquiniensis (San Giovenale),-450,-400,mi reices,,
+ETP 106,aryballos (ceramic),SE 56 (1991) REE 42 (tav. LXII),Giovanni Colonna,Dedications,Veii,-600,-600,uθuzteθs vuvze,"Text (a) consists of two utterances: a proprietary text (line 1) followed by a dedication (lines 2-3). The gentilicium, <b>kanzina</b>, is uninflected and should probably be restored as a feminine genitive singular, <b>kanzinaia</b>, in agreement with the first name. The verb <b>muluvace</b> is misspelled. Read muluva(ni)ce.
+
+Text (b) was incised in dextroverse direction. This is probably the 'signature' of the artisan.","<ol>
+<li>Di Gennaro, F. 1986-87. BollCommArch 88,2.516.</li>
+<li>Maras, Daniele. 2002. Note sull’arrivo del nome di Ulisse in Etruria. SE 65-68.237-239.</li>
+</ol>"
+ETP 107,cippus (stone),SE 57 (1991) REE 34 (tav. XLVI),Pietro Tamburini,Funerary Texts,Volsinii (Bolsena),-300,-100,[ – – – ]θ : ai[ – – – ],,
+ETP 108,kylix (ceramic),SE 56 (1991) REE 11 (tav. LV),Stella Patitucci,Proprietary Texts,Tarquinia,-600,-600,mi araθia,,
+ETP 109,fragment of cup (ceramic),SE 65-68 REE 14 (tav. XXXI 14),Marisa Buonomici,Proprietary Texts,Aemilia (Luna),-200,-190,m . velimna,The inscription was incised in dextrograde ductus in a Republican Latin alphabet.,
+ETP 110,bowl (ceramic),SE 65-68 REE 15 (tav. XXXI 15),Adriano Maggiani,Proprietary Texts,Pisae,-500,-450,"ei menepi khape mi · mi : karkus 
+    venelus","The inscription was incised, except for <b>venelus</b>, around the rim of the foot of the bowl. <b>venelus</b> was incised on the flat portion of the foot, inside the rim. The first part of the text is an 'anti-theft' inscription. How the final portion of the text is to be organized syntactically is not completely clear. The editor suggests a division into three constituents: <b>ei menepi khape.  mi venelus. mi karkus.</b>. Following this analysis, one of the names refers to the owner of the piece, the other refers to the person who gave it.",
+ETP 111,fragment of plate (ceramic),SE 65-68 (2002) REE 17 (tav. XXXI 17),Gabrielle Cifani - Giovanni Colonna,Dedications,Ager Volsiniensis,-550,-500,[- - -]ui tura[ce - - - ],,
+ETP 112,fragment of a flask (ceramic),SE 65-68 REE 19 (tav. XXXI 19),Dominique Briquel,Artisans' Texts,Vulci,-250,-200,putina : ceizra : acil,The words in this inscription are separated by four puncts aligned vertically.,
+ETP 113,fragment of vase (ceramic),SE 65-68 (2002) REE 22 (tav. XXXI 22),Vincenzo Bellelli,Proprietary Texts,Caere,-500,-500,mi larice[s],,
+ETP 114,fragment of vase (ceramic),SE 65-68 (2002) REE 23 (tav. XXXI),Vicenzo Bellelli,Proprietary Texts,Caere,-600,-500,apa,,
+ETP 115,fragment of kantharos (ceramic),SE 65-68 (2002) REE 24 (tav. XXXI 24),Vincenzo Bellelli,Other/Unclear Texts,Caere,-600,-500,[- - -]acle[- - -],,
+ETP 116,fragment of vase (ceramic),SE 65-68 (2002) REE 25 (tav. XXXII),Vincenzo Bellelli,Other/Unclear Texts,Caere,-600,-500,[- - -]esus[- - -],,
+ETP 117,fragments of small olla (ceramic),SE 65-68 (2002) REE 49 (tav. XXXII),Vincenzo Bellelli,Proprietary Texts,Caere,-500,-400,venels [ mi ],"The bottom rightmost portion of the final letter is visible. The editor suggests <i>sigma</i>, which would have to be retrograde in ductus. <i>Alpha</i> is also possible, and such a reading would change the syntax of the inscription (name of proprietor in the nominative?).",
+ETP 118,fragment of olla (ceramic),SE 65-68 (2002) REE 71 (tav. XXXIII),Giovanni Colonna,Dedications,Veii,-700,-600,mi : raq[u]nθa : tipeia : θina : malaχ [: malaka]si : ita : mena[q]u,"The inscription has two constituents: (a) a proprietary text (<b>mi : raq[u]nθa : tipeia : θina : </b>), which is followed by (b) a dedication <b>malaχ [: malaka]si : ita : mena[q]u</b>).",
+ETP 119,fragment of Attic cup (ceramic),"SE 65-68 (2002) REE 72 (tav. XXXIII, 72)",Giovanni Colonna,Proprietary Texts,Veii,-425,-400,[- - -]fufluna [- - -],"Of the initial <b>f</b> only the leftmost portions (of curved strokes) are visible. The final letter is difficult to read, but it appears to be an <i>alpha</i> with the medial stroke ascending in the direction of writing. 
+
+Bibliography:
+<ul>
+<li>
+Sgubini Moretti, Anna Maria (a cura di). 2001.<i> Veio, Cerveteri, Vulci. Città d’Etruria a confronto. Catalogo della Mostra.</i> Roma: “L’Erma” di Bretschneider. [The inscription is on pp. 18-19 (F.Fu.). It is dated to 480-470.]</li>
+</ul>",
+ETP 120,fragment of phiale (ceramic),"SE 65-68 (2002) REE 73 (tav. XXXIII, 73)",Giovanni Colonna,Artisans' Texts,Veii,-600,-500,mi zinace velθ[ur a]ncinies.,"This fragment belongs to the same piece of ceramic as that with Rix Ve 3.44 (<b>[m]ini nuluvanice lari.s. leθaie.s.)</b>. Both inscriptions were incised by the same hand.
+
+/s/ has the form of the cross, <b>X</b>. A slender portion of the rightmost stroke of <i>theta</i> is visible. The first word may be an error for <b>mini</b>, the acc. form of the 1st pronoun.",
+ETP 121,fragment of chalice or kantharos (ceramic),"SE 65-68 (2002) REE 74 (tav. XXXII, 74)",Daniele F. Maras,Proprietary Texts,Ager Capenas (Procoio Nuovo),-600,-550,[ -  -  - ]xiiene.[ -  -  - ],"The point that stands just before the break in the ceramic, if it is not an abrasion on the surface of the ceramic, may be syllabic punctuation.",
+ETP 122,fragment of cup (ceramic),SE (2002) 65-68 REE 76 (tav. XXXII),Laura Biondi,Proprietary Texts,Narce,-500,-400,apalus,,
+ETP 123,cup (ceramic),"SE 65-68 (2002) REE 76 (tav. XXXII, 76)",Laura Biondi,Proprietary Texts,Narce,-450,-400,peiθe,,
+ETP 124,fragment of small flask (ceramic),"SE 65-68 (2002) REE 78 (tav. XXXIV, 78)",Giuseppina Ghini - Giovanni Colonna,Artisans' Texts,Latium (Velitrae),-250,-200,putina : ceizra : acil,"Replicas of this flask and inscription have been found at Bolsena (3), Roma (1), Caere (2) and Vulci (1). For the inscription from Vulci see ETP 112.",
+ETP 125,bowl (ceramic),"SE 65-68 (2002) REE 79 (tav. XXXIV, 79)",Vincenzo Bellelli,Abecedaria,Campania (Nola),-500,-500,a c e v φ f,"<i>Gamma</i> is written in retrograde ductus. The reading of the final two letters is not certain. <b>φ</b> is in the form of a trident turned on its head. <b>f</b> is of the Faliscan variety, which is in the form of an arrow.",
+ETP 126,bowl (ceramic),"SE 65-68 (2002) REE 81 (tav. XXXIV, 81)",Vincenzo Bellelli,Proprietary Texts,Campania (Nola),-550,-500,uσeli · i,"The palatal /š/ is represented by three-bar <i>sigma</i>. It seems likely that the first part of this text is to be corrected to <b>uσele</b>, which is a common praenomen in the archaic period, but this solution does not address the final portion of the inscription.",
+ETP 127,tegola (ceramic),SE 65-68 (2002) REE 82 (tav. ),Giovanni Colonna,Other/Unclear Texts,Campania (Fratte di Salerno),-500,-400,[ -  -  - ]θ nerc[ -  -  - ],"<i>Theta</i> has no medial strokes or punct. <i>Ny</i> has the form <b>H</b>, but with the medial sloping slightly in the direction of writing.",
+ETP 128,chalice (ceramic),SE 65-68 (2002) REE 84 (tav. XXXIV),Giovanni Colonna,Dedications,Campania (Pontecagnano) ,-650,-600,mi mulu venelasi velχaesi rasuniesi,,
+ETP 129,olpe (ceramic),SE 65-68 (2002) REE 87 (tav. XXXV),Giovanni Colonna,Proprietary Texts,Campania (Pontecagnano),-500,-500,miliθunas plecus,,
+ETP 130,cup (ceramic),SE 65-68 (2002) REE 88 (tav. XXXV),Giovanni Colonna,Proprietary Texts,Campania (Pontecagnano),-500,-500,mi larisal meminiies,,
+ETP 131,kylix (ceramic),SE 65-68 (2002) REE 90 (tav. XXXV),Giovanni Colonna,Other/Unclear Texts,Campania (Pontecagnano),-500,-475,θavura,,
+ETP 132,cup (ceramic),SE 65-68 (2002) REE 91 (tav. XXXV),Giovanni Colonna,Proprietary Texts,Campania (Pontecagnano),-500,-475,laruθ χiius,,
+ETP 133,kylix (ceramic),SE 65-68 (2002) REE 93 (tav. XXXV),Giovanni Colonna,Proprietary Texts,Campania (Pontecagnano),-400,-400,mi alza ceriies,,
+ETP 134,cup (ceramic),SE 65-68 (2002) REE 94 (tav. XXXV),Giovanni Colonna,Proprietary Texts,Campania (Pontecagnano),-400,-400,artes ta,,
+ETP 135,cup (ceramic),SE 65-68 (2002) REE 96 (tav. XXXV),Giovanni Colonna,Other/Unclear Texts,Campania (Pontecagnano),-375,-350,tiχ,,
+ETP 136,cup (ceramic),SE 65-68 (2002) REE 97 (tav. XXXV),Giovanni Colonna,Other/Unclear Texts,Campania (Pontecagnano),-375,-350,atina,,
+ETP 137,cup (ceramic),SE 65-68 (2002) REE 100 (tav. XXXV),Giovanni Colonna,Other/Unclear Texts,Campania (Pontecagnano),-650,-575,θac θva,,
+ETP 138,cinerary urn (ceramic),SE 65-68 (2002) REE 102 (tav. XXXVI),Dominique Briquel,Funerary Texts,Unknown,-480,50,[ – – – ]a : nx[ – – – ],The inscription was painted on the urn. The urn is of a type common at Chiusi and environs.,
+ETP 139,cinerary urn (ceramic),SE 65-68 (2002) REE 103 (tav. XXXVI),Dominique Briquel,Funerary Texts,Unknown,-480,50,arnθ [ – – – ]runa : fulu,The inscription was painted along the upper border of the urn. The urn belongs to a type produced at Chiusi.,
+ETP 140,cinerary urn (ceramic),SE 65-68 (2002) REE 104 (tav. XXXVI),Dominique Briquel - Bruno Poulle,Funerary Texts,Unknown,-480,50,θ : cae [:] umr[an]al,The inscription was painted along the upper border of the urn. The urn belongs to a type that was produced at Chiusi.,
+ETP 141,cinerary urn (ceramic),SE 65-68 (2002) REE 106 (tav. XXXVI),Dominique Briquel - Richard Adam,Funerary Texts,Unknown,-480,50,l[ – – – ]atin[ – – – ]am [ – – – ]nal,"The inscription was painted in red letters that run along the upper border of the cask. According to the editors, the text may be restored as <b>l[θ l]atin[i n]am[uθ]nal</b>. However, the editors do not indicate the length of the interval between the <b>l</b> and the <b>a</b> at the beginning of the text. The urn belongs to a type that was produced at Chiusi.",
+ETP 142,cinerary urn (ceramic),SE 65-68 (2002) REE 107,Dominique Briquel - Bruno Poulle,Funerary Texts,Unknown,-480,50,[ - - - ]x[.]x calix[ – – – ] a : velθxx[ – – – ],"The inscription was painted in black letters running along the upper border of the cask. According to the editors, the praenomen and gentilicium could be restored as <b>[lar]θ[i] : calis[nei – – –]a : velθur[ials]</b>.",
+ETP 143,cinerary urn (ceramic),SE 65-68 (2002) REE 108 (tav. XXXVI),Dominique Briquel - Dominique Frère - Laurent Hugot,Funerary Texts,Unknown,-480,50,la[r]θi : θactr[ei  - - - ],The urn is of Chiusine production. The inscription was painted in red along the upper border of the cask.,"<ul>
+<li>
+Mowat, Robert. 1897. Deux urnes funéraires récemment entrées au Musée de Laval. <i>Bulletin de la commission historique et archéologique de la Mayenne</i> 13.91-101 [91-96, photograph pg. 92].
+</li>
+</ul>"
+ETP 144,cinerary urn (ceramic),SE 65-68 (2002) REE 109 (tav. XXXVI),Dominique Briquel - Marie-Laurence Haack,Funerary Texts,Unknown,-480,50,[ – – – ]t[ – – – ]vel[ . . (?)],The inscription was painted in red along the upper border of the cask.,
+ETP 145,cinerary urn (ceramic),SE 65-68 (2002) REE 110,Dominique Briquel,Funerary Texts,Unknown,-480,50,aθ : [ – – – ]ni[ – – –]e[ – – – ],The urn is of Chiusine production. The inscription was painted in red along the upper border of the cask.,
+ETP 146,oinochoe (bronze),SE 65-68 (2002) REE 111 (tav. XXXVI),Dominique Briquel,Funerary Texts,Unknown (South),-400,-300,σuθina,The inscription was incised in dextroverse direction on the belly of the pitcher. The editor questions the authenticity of this text.,
+ETP 147,fragments of oinochoe (bronze),SE 65-68 (2002) REE 112,Dominique Briquel,Funerary Texts,Unknown (South),-400,-200,σuθina,The inscription was incised along the inside rim of the neck of the pitcher.,
+ETP 148,funerary urn (ceramic),SE 65-68 (2002) REE 113 (tav. XXXVI),Dominique Briquel,Funerary Texts,Unknown,-400,-200,"[ . ]θ[ . . . . ]ucx[ . . . ]uxumsnal : l 
+    ca[i]a : [pui]a :","The urn is of Chiusine production. The inscription was painted in red along the upper border of the cask and then it turns runs down along the left side. The editor suggests the following restoration of the text as one possibility: 
+
+<b>[l]θ[: la]uca[ne : la]ucumsnal : l 
+ca[ i ]a : [pui]a : </b>",
+ETP 149,funerary urn (ceramic),SE 65-68 (2002) REE 114 (tav. XXXVI),Dominique Briquel,Funerary Texts,Unknown,-480,50,[f]aσti : cainei : c[<i>vacat</i>]aulias : rufe,The urn is of Chiusine production. The inscription was painted in red along the upper border of the cask. The editor notes that the <i>praenomen</i> of the deceased could also be restored as <b>[h]aσti</b>.,
+ETP 150,two pieces of large amphora or oinochoe (bronze),SE 65-68 (2002) REE 115 (tav. XXXVII),Giovanni Colonna,Proprietary Texts,Unknown,-450,-400,tite θve[8-10 letters],Inscription (a) was incised around the rim of the bronze. (b) runs vertically starting just below the first letter of the last word. Inscription (b) may be restored as <b>tite θve[θlies turce]</b>.,
+ETP 151,sarcophagus (ceramic),SE 65-68 (2002) REE 116 (tav. XXXVII-XXVIII),Giovanni Colonna,Funerary Texts,Unknown,-200,-175,"σcurnai [ · se]θ[ra – – – ]
+    psa · a[ – – – ]xe · a[ – – – ]",The inscription was painted in two lines on the cask of the sarcophagus.,
+ETP 152,chalice (ceramic),SE 65-68 (2002) REE 139,Giovanni Colonna,Other/Unclear Texts,Veii,-700,-600,vka,The letters were incised upside down in dextrograde ductus on the external wall of the vase.,
+ETP 153,two fragments of alabastron or olpe (ceramic),SE 65-68 (2002) REE 141,Lorenzo Minciotti – Daniele F. Maras,Other/Unclear Texts,Veii,-700,-480,[ – – – ]utruhx[ – – – ],For fragment one see SE (1971) REE 40.,
+ETP 154,fragment of Laconian (?) amphora (ceramic),SE 65-68 (2002) REE 145 (tav. XLI),Giovanni Colonna,Proprietary Texts,Campania (Pompeii),-525,-500,[ – – – ] papeσa,,
+ETP 155,lebete (bronze),SE 65-68 (2002) REE 150 (tav. XLI),Giovanni Colonna,Dedications,Lucania (Vaglio Basilicata),-525,-500,mine{i} uvi[e tu]ru[ce] xxx vesricenals,,
+ETP 156,kylix (ceramic),SE 56 (1991) REE 2 (tav. LV),Daniele Vitali,Proprietary Texts,Aemilia (Monterenzio/Bologna),-350,-300,pav,,
+ETP 157,bowl (ceramic),SE 56 (1991)  REE 3 (tav. LV),Daniele Vitali,Proprietary Texts,Aemilia (Monterenzio/Bologna),-350,-300,fulu,,
+ETP 158,kylix (ceramic),SE 56 (1991) REE 4 (tav. LV),Daniele Vitali,Proprietary Texts,Aemilia (Monterenzio/Bologna),-320,-300,mi laθialus,,
+ETP 159,small olla (ceramic),SE 56 (1991)  REE 5 (tav. LV 5),Giovanni Colonna,Other/Unclear Texts,Volaterrae,-250,-200,[ - - - ]mvχza,,
+ETP 160,cover of cinerary urn (stone),SE 56 (1991) REE 6 (tav. LVI),Giovanni Colonna,Funerary Texts,Volaterrae,-100,-100,a · a · pumpnaliσa,,
+ETP 161,sarcophagus (stone),SE 56 (1991)  REE 7 (tav. LVI),Elfriede Paschinger,Didaskalia,Volcii,-350,-300,van[θ],The inscription was incised on the cover of the sarcophagus adjacent to a figure of the goddess.,
+ETP 162,cippus (stone),SE 56 (1991)  REE 8,Pietro Tamburini,Funerary Texts,Volsinii (Bolsena),-300,-100,θania : alσinei,,"<ul>
+<li>
+Tamburini, Pietro. 1987. Contributi per la storia del territorio volsiniese I. I cippi funerari e l’onomastica. <i>MEFRA</i>99.640-642.</li>
+</ul>"
+ETP 163,ovoid cippus (stone),SE 56 (1991)  REE 9 (tav. LVI),Pietro Tamburini,Funerary Texts,Ager Volsiniensis (Isola Martana),-350,-300,av · talus,<b>av</b> and <b>al</b> were written as ligatures.,
+ETP 164,kylix (ceramic),SE 56 (1991)  REE 11 (tav. LV),Roberto Macellari,Proprietary Texts,Tarquinia,-650,-600,mi araθia,,
+ETP 165,olla (ceramic),SE 56 (1991) REE 12 (tav. LVIII),Giovanni Colonna,Proprietary Texts,Caere,-650,-625,mi satu qurtunia{nia}s,The editor believes that the inscription was incised by two hands. Letters 1-9 are rather large; the rest of the letters are considerably smaller.,
+ETP 166,goblet (ceramic),SE 56 (1991)  REE 13 (tav. LVII),Marina Martelli,Proprietary Texts,Caere,-675,-650,mi ramuθas,"Text (a) was inscribed in sinistrograde ductus, text (b) in dextrograde ductus.",
+ETP 167,fragment of Attic kylix (ceramic),SE 56 (1991) REE 14 (tav. LVII),Marina Martelli,Proprietary Texts,Caere,-500,-480,[ - - - ]senθiial[ - - - ],,
+ETP 168,loom weight (ceramic),SE 56 (1991) REE 15 (tav. LVII),Marina Martelli,Proprietary Texts,Caere,-480,50,han,,
+ETP 169,fragment of tegola (ceramic),SE 56 (1991) REE 16 (tav. LVII),Marina Martelli,Funerary Texts,Caere,-480,50,[ - - - ]rati[ - - - ],,
+ETP 170,cippus (stone),SE 56 (1991)  REE 17,Maristella Pandolofini,Funerary Texts,Caere,-500,-480,m · clevsinas · a · c,The cippus is now lost. The inscription is mentioned a manuscript in the Vatican Library (codex Latino Vaticano 9773) from the year 1833.,
+ETP 171,olla (ceramic),SE 56 (1991) REE 18 (tav. LVIII),Paolo Brocato - Giovanni Colonna,Other/Unclear Texts,Caere,-300,-280,θanaχti,,
+ETP 172,plate (ceramic),SE 56 (1991)  REE 19 (tav. LVIII),Marco Rendeli,Other/Unclear Texts,Ager Caeretanus (Tolfa),-520,-475,puzra,,
+ETP 173,fragment of Attic kylix (ceramic),SE 56 (1991)  REE 21 (tav. LVIII),Giovanni Colonna,Religious Texts,Pyrgi,-500,-450,mi : σuris : ca[ - - - ],The /š/ in <b> σuris</b> is a 4-bar <i>sigma</i>.,
+ETP 174,fragment of bowl (ceramic),SE 59 (1994) REE 4 (tav. XLII),Stella Patitucci - Giovanni Uggeri,Proprietary Texts,Venetia (Spina),-425,-400,[a]vlex[ – – – ],"A small portion of the stroke of another letter is visible at the break in the fabric. It could be the upper rightmost portion of a <i>tsade</i>, in which case we could read <b>[a]vles [ – – – ]</b>.",
+ETP 175,bowl (ceramic),SE 59 (1994) REE 10 (tav. XLIII),Marina Martelli,Proprietary Texts,Venetia (Spina),-300,-300,perknas,,
+ETP 176,fragment of cup (ceramic),SE 59 (1994) REE 11 (tav. XLIII),Marisa Buonamici,Other/Unclear Texts,Volaterrae,-350,-300,mu[ – – – ],The editor proposes to restore the inscription as <b>mu[nθ]</b>.,
+ETP 177,fragment of cup (ceramic),SE 59 (1994) REE 12 (tav. XLIII),Marisa Buonamici,Proprietary Texts,Volaterrae,-225,-150,cavinal,,
+ETP 178,fragment of plate (ceramic),SE 59 (1994) REE 14 (tav. XLIII),Marisa Buonamici,Other/Unclear Texts,Volaterrae,-150,-150,[ – – – ]arx[ – – – ],The editor notes that the third character could be either <b>θ</b> or <b>c</b>.,
+ETP 179,cippus (stone),SE 59 (1994) REE 15 (tav. XLIV),Rosella Merli,Funerary Texts,Ager Volaterranus (San Gimignano),-500,-450,[ m]i velθuru[s] aχus,,
+ETP 180,cinerary urn (stone),SE 59 (1994) REE 16 (tav. XLIV),Gabriele Cifani,Funerary Texts,Clusium,-200,-200,vel : [p]apa[s] : v,,
+ETP 181,cinerary urn (stone),SE 59 (1994) REE 17 (tav. XLIV),Ole Hjordt-Vetlesen,Funerary Texts,Ager Clusinus,-200,-200,"meinei · papaσliσ
+    a · vl · titialc · sec",,
+ETP 182,plate (ceramic),SE 59 (1994) REE 18 (tav. XLV),Pietro Tamburini,Proprietary Texts,Ager Volsiniensis (Grotte di Castro),-600,-500,fastia,,
+ETP 183,Attic amphora (ceramic),SE 59 (1994) REE 19 (tav. XLV),Maristella Pandolfini,Proprietary Texts,Ager Tarquiniensis (Blera),-500,-500,avalnies,,
+ETP 184,wall of tomb (stone),SE 59 (1994) REE 20 (tav. XLV),Luciano Santella,Funerary Texts,Ager Tarquiniensis (San Giovenale),-550,-550,[m]i larusi ziχan[ – – – ],,
+ETP 185,fragment of vase (ceramic),SE 59 (1994) REE 21 (tav. XLV),Gabriele Cifani - Giovanni Colonna,Proprietary Texts,Ager Veientanus (Prima Porta),-500,-500,m zu[ – – – ],,
+ETP 186,fragment of handle of kantharos or kyathos (ceramic),SE 59 (1994) REE 22 (tav. XLV),Alessandro Naso,Dedications,Ager Faliscus (Mazzano Romano),-600,-550,leθaie mulvanice mi.ne vhulve.s.,,
+ETP 187,fragment of vase (ceramic),SE 59 (1994) REE 23 (tav. LI),Paolo Brocato,Proprietary Texts,Roma,-600,-580,[ – – – ]raices zav[ – – – ],,
+ETP 188,cinerary urn (ceramic),SE 59 (1994) REE 24 (tav. LI),Martin Bentz,Funerary Texts,Unknown,-175,-100,larθi  · larci : vetna[l],The urn belongs to a type common at Chiusi. The metronymic could also have the form <b>vetna[liσa]</b>.,
+ETP 189,weight (bronze),SE 59 (1994) REE 26 (tav. XLVII-XLVIII),Larissa Bonfante,Dedications,Unknown,-400,-200,ecn : turce : laris : θefries : espial : atial : caθas,,
+ETP 190,pedestal (stone),SE 59 (1994) REE 27 (tav. XLIX),Rex Wallace,Dedications,Unknown,-400,-200,"laris
+    raθmsnas
+    turce",,
+ETP 191,Attic kylix (ceramic),SE 59 (1994) REE 44,Marina Martelli,Religious Texts,Tarquinia,-480,-480,turuns,,
+ETP 192,sarcophagus (stone),SE 59 (1994) REE 45,Giovanni Colonna,Funerary Texts,Ager Tarquiniensis (Tuscania),-275,-250,cleusinas : laris : larisal : clan,,
+ETP 193,amphora (ceramic),SE 59 (1994) REE 46 (tav. LIII),Giovanni Colonna,Proprietary Texts,Caere,-350,-250,"laris
+    ecnatie",,
+ETP 194,cinerary urn (ceramic),SE 59 (1994) REE 50 (tav. LIII),Dominique Briquel,Funerary Texts,Unknown,-200,-100,faσti · vetrui s[ . . ]x[ . ]x[ . ]a,The form of the urn is Chiusine. The inscription was painted in red letters. The editor notes that personal name could also be <b>haσti</b>.,
+ETP 195,strigile (bronze),SE 59 (1994) REE 51 (tav. LIV),Giovanni Colonna,Artisans' Texts,Unknown,-300,-300,ae vipie cultces,The text was stamped on the handle of the strigile.,
+ETP 196,kyathos (ceramic),BdA 82 (1993) 1-10 (tav. 1-19),Maria Antonietta Rizzo - Mauro Cristofani,Dedications,Caere,-650,-650,[mi]ni venel paiθina[s mu]luvnice,"The verb <b>[mu]luvnice</b> should be corrected to <b>[mu]luv(a)nice</b>.
+
+Bibliography: 
+<ul>
+<li>
+Rizzo, Maria Antonietta &amp;amp; Mauro Cristofani. 1993. Un kyathos e altri vasi iscriti dale tombe orientalizzanti di San Paolo a Cerveteri. <i>Bolletino d’Arte del Ministro per i Beni Culturali e Ambientali (BdA)</i>82.1-10.</li>
+</ul>",
+ETP 197,olla (ceramic),"BdA 82 (1993) 1-10 (tav. 20, 24)",Maria Antonietta Rizzo,Proprietary Texts,Caere,-650,-625,mi larθia tarnas,,"<ul>
+<li>
+Rizzo, Maria Antonietta &amp;amp; Mauro Cristofani. 1993. Un kyathos e altri vasi iscriti dale tombe orientalizzanti di San Paolo a Cerveteri. <i>Bolletino d’Arte del Ministro per i Beni Culturali e Ambientali (BdA)</i> 82.1-10.</li>
+</ul>"
+ETP 198,olla (ceramic),BdA (1993) 82.1-10 (tav. 22-23),Maria Antonietta Rizzo,Proprietary Texts,Caere,-650,-625,mi larθia tarinas,,"<ul>
+<li>
+Rizzo, Maria Antonietta &amp;amp; Mauro Cristofani. 1993. Un kyathos e altri vasi iscriti dale tombe orientalizzanti di San Paolo a Cerveteri. <i>Bolletino d’Arte del Ministro per i Beni Culturali e Ambientali (BdA)</i> 82.1-10.</li>
+</ul>"
+ETP 199,cinerary urn (ceramic),SE 61 (1996) REE 1 (tav. XXXIX),Helmut Rix,Funerary Texts,Clusium,-100,-100,"ve : ane : vezra : laurstia
+l","The inscription was painted on the upper border of the cask of the urn. The final letter of the inscription, <b>l</b>, was painted in the left margin.",
+ETP 200,cippus (stone),SE 61 (1996) REE 2 (tav. XXXIX),Pietro Tamburini,Funerary Texts,Volsinii,-200,-100,vipe : acries,,
+ETP 201,fragment of bowl (ceramic),SE 61 (1996) REE 3 (tav. XL),Paola Giulinelli,Proprietary Texts,Ager Faliscus (Falerii),-400,-300,cnaviies mi,<b> Nu</b> and <b>mu</b> were written retrograde.,
+ETP 202,fragment of bowl (ceramic),SE 61 (1996) REE 4 (tav. XL),Paola Giulinelli,Proprietary Texts,Ager Faliscus (Corchiano),-300,-100,arnθial ur[ – – – ],"The editor suggests that the family name is to be restored as <b>ur[inates]</b>, a name that is well attested north of the <i>Ager Faliscus</i> in the Hellenistic period.",
+ETP 203,fragment of bowl (ceramic),SE 61 (1996) REE 7 (tav. XLI),Horst Blanck,Proprietary Texts,Campania (Pompeii),-700,-480,luvcie[ – – – ],,
+ETP 204,Attic kylix (ceramic),SE 61 (1996) REE 8 (tav. XLI),Mauro Cristofani,Proprietary Texts,Campania (Pontecagnano),-475,-450,ani,The inscription was incised in dextroverse direction.,
+ETP 205,bowl (ceramic),SE 61 (1996) REE 9 (tav. XLI),Mauro Cristofani,Proprietary Texts,Campania (Pontecagnano),-400,-400,aveles hanpnas,,
+ETP 206,cup (ceramic),SE 61 (1996) REE 10 (tav. XLII),Gianni Bailo Modesti,Proprietary Texts,Campania (Pontecagnano),-600,-550,mi nanes,,
+ETP 207,cinerary urn,SE 61 (1996) REE 12,Dominique Briquel,Funerary Texts,Unknown,-480,50,θana [p]ercnei salias,(a) was painted in black along the border of the cask of the urn. (b) was incised over it. The family name of the deceased in (a) could also be <b> re[m]n[i]</b>. The urn is of a type common at Chiusi.,
+ETP 208,cup (ceramic),SE 61 (1996) REE 15,Alessandro Naso,Proprietary Texts,Unknown,-630,-600,mi larθus,,
+ETP 209,askos (ceramic),SE 61 (1996) REE 16 (tav. ),Alessandro Naso,Proprietary Texts,Unknown,-650,-600,mi venelus σiθurnas,,
+ETP 210,helmet (bronze),SE 61 (1996) REE 22 (tav. ),Marina Martelli,Other/Unclear Texts,Unknown,-500,-470,cap,"According to the editor, text (b) records the first part of the name of the owner the helmet. Text (a) may be the numeral 6.",
+ETP 211,Attic cup (ceramic),SE 61 (1996) REE 23 (tav. XLIV),Maristella Pandolfini Angeletti,Proprietary Texts,Unknown,-500,-450,venel,,
+ETP 212,kylix (ceramic),SE 61 (1996) REE 24 (tav. XLV),Maristella Pandolfini Angeletti,Proprietary Texts,Unknown,-500,-450,atana,,
+ETP 213,lintel of tomb (stone),AnnMuseoFaina (1990) 4.79,Carlo de Simone,Funerary Texts,Volsinii (Orvieto) archaic,-9999,9999,[mi] aranθia lapanas,,"<ul>
+<li>
+De Simone, Carlo. 1990. L'epigrafia etrusca arcaica di Orvieto. <i>AnnMuseoFaina</i> 4.75-79.</li>
+</ul>"
+ETP 214,lintel of tomb (stone),AnnMuseoFaina (1990) 4.79,Carlo de Simone,Funerary Texts,Volsinii (Orvieto) archaic,-9999,9999,mi aveles metienas,,"<ul>
+<li>
+De Simone, Carlo. 1990. L'epigrafia etrusca arcaica di Orvieto. <i>AnnMuseoFaina</i> 4.75-79.</li>
+</ul>"
+ETP 215,fragment of vase (ceramic),"Opuscula Romana 24 (1999) 64, 1 (Fig. 3)",Giovanni Colonna &amp; Yvonne Backe Forsberg,Proprietary Texts,Ager Tarquiniensis (San Giovenale),-600,-550,mi urqenas,,"<ul><li>
+Colonna, Giovanni &amp;amp; Yvonne Backe Forsberg. 1999. Le iscrizione del ‘sacello’ del ponte di San Giovenale. Opuscula Romana 24.63-78.</li></ul>"
+ETP 216,fragment of vase (ceramic),"Opuscula Romana 24 (1999) 65, 3 (Fig. 3)",Giovanni Colonna &amp; Yvonne Backe Forsberg,Proprietary Texts,Ager Tarquiniensis (San Giovenale),-550,-500,mi larza,,"<ul>
+<li>Colonna, Giovanni &amp;amp; Yvonne Backe Forsberg. 1999. Le iscrizione del ‘sacello’ del ponte di San Giovenale. <i>Opuscula Romana</i> 24.63-78.</li>
+</ul>"
+ETP 217,fragment of bowl (ceramic),"Opuscula Romana 24 (1999) 65, 6 (Fig. 3)",Giovanni Colonna &amp; Yvonne Backe Forsberg,Proprietary Texts,Ager Tarquiniensis (San Giovenale),-700,-480,mi xx[ – – – ],Of letters three and four only the vertical bars are visible. Colonna proposes to read <b>mi ti[tes – – – ]</b>.,"<ul>
+<li>Colonna, Giovanni &amp;amp; Yvonne Backe Forsberg. 1999. Le iscrizione del ‘sacello’ del ponte di San Giovenale. <i>Opuscula Romana</i> 24.63-78.</li>
+</ul>"
+ETP 218,fragment of bowl (ceramic),"Opuscula Romana 24 (1999) 65, 7 (Fig. 3)",Giovanni Colonna &amp; Yvonne Backe Forsberg,Other/Unclear Texts,Ager Tarquiniensis (San Giovenale),-700,-480,[ – – – ]alix[ – – – ],Colonna notes that the surviving portion of the text may be restored as <b>[ – – – ]alik[e – – – ]</b>.,"<ul>
+<li>Colonna, Giovanni &amp;amp; Yvonne Backe Forsberg. 1999. Le iscrizione del ‘sacello’ del ponte di San Giovenale. <i>Opuscula Romana</i> 24.63-78.</li>
+</ul>"
+ETP 219,fragment of bowl (ceramic),"Opuscula Romana 24 (1999) 65, 8 (Fig. 3)",Giovanni Colonna &amp; Yvonne Backe Forsberg,Proprietary Texts,Ager Tarquiniensis (San Giovenale),-700,-480,mi vi[ – – – ],The topmost portions of four letters are visible. The editor proposes to read <b>mi vi[pies – – – ]</b>.,"<ul>
+<li>Colonna, Giovanni &amp;amp; Yvonne Backe Forsberg. 1999. Le iscrizione del ‘sacello’ del ponte di San Giovenale. <i>Opuscula Romana</i> 24.63-78.</li>
+</ul>"
+ETP 220,fragment of kyathos (ceramic),"Opuscula Romana 24 (1999) 65, 11 (Fig. 3)",Giovanni Colonna &amp; Yvonne Backe Forsberg,Proprietary Texts,Ager Tarquiniensis (San Giovenale),-700,-480,"lai 
+    [ – – – ]",The text is perhaps to be restored as the personal name lai[ve] or the family name lai[venas].,"<ul>
+<li>Colonna, Giovanni &amp;amp; Yvonne Backe Forsberg. 1999. Le iscrizione del ‘sacello’ del ponte di San Giovenale. <i>Opuscula Romana</i> 24.63-78.</li>
+</ul>"
+ETP 221,bowl (ceramic),"Opuscula Romana 24 (1999) 66, 15 (Fig. 5)",Giovanni Colonna &amp; Yvonne Backe Forsberg,Proprietary Texts,Ager Tarquiniensis (San Giovenale),-550,-500,mi fasθiia alσiia,,"<ul>
+<li>Colonna, Giovanni &amp;amp; Yvonne Backe Forsberg. 1999. Le iscrizione del ‘sacello’ del ponte di San Giovenale. <i>Opuscula Romana</i> 24.63-78.</li>
+</ul>"
+ETP 222,fragment of kantharos (ceramic),"Opuscula Romana 24 (1999) 66, 16 (Fig. 5)",Giovanni Colonna &amp; Yvonne Backe Forsberg,Other/Unclear Texts,Ager Tarquiniensis (San Giovenale),-600,-550,[ – – – ]xesiiala,The upper oblique stroke of the first letter is visible. <b>v</b> or <b>p</b> are possible.,"<ul>
+<li>Colonna, Giovanni &amp;amp; Yvonne Backe Forsberg. 1999. Le iscrizione del ‘sacello’ del ponte di San Giovenale. <i>Opuscula Romana</i> 24.63-78.</li>
+</ul>"
+ETP 223,fragment of kantharos (ceramic),"Opuscula Romana 24 (1999) 66, 17 (Fig. 5)",Giovanni Colonna &amp; Yvonne Backe Forsberg,Other/Unclear Texts,Ager Tarquiniensis (San Giovenale),-550,-500,mul,"The text was inscribed vertically, from high to low.","<ul>
+<li>Colonna, Giovanni &amp;amp; Yvonne Backe Forsberg. 1999. Le iscrizione del ‘sacello’ del ponte di San Giovenale. <i>Opuscula Romana</i> 24.63-78.</li>
+</ul>"
+ETP 224,fragment of kantharos (ceramic),"Opuscula Romana 24 (1999) 66, 37 (Fig. 5)",Giovanni Colonna &amp; Yvonne Backe Forsberg,Proprietary Texts,Ager Tarquiniensis (San Giovenale),-500,-500,mi l[ . . . . . ]aruniθla,"In the lacuna, there is space for four or five letters. Colonna proposes to restore the text as: <b>mi l[ursl l]aruniθla</b>.","<ul>
+<li>Colonna, Giovanni &amp;amp; Yvonne Backe Forsberg. 1999. Le iscrizione del ‘sacello’ del ponte di San Giovenale. <i>Opuscula Romana</i> 24.63-78.</li>
+</ul>"
+ETP 225,fragment of cup (ceramic),SE 64 (2001) REE 2 (tav. XXXVIII),Stefano Bruni,Other/Unclear Texts,Pisa,-400,-300,ven,,
+ETP 226,cinerary urn (travertine),SE 64 (2001) REE 4,Giulio Paolucci,Funerary Texts,Clusium,-480,50,lθ  · carta · rusinal,,
+ETP 227,cinerary urn (travertine),SE 64 (2001) REE 5,Giulio Paolucci,Funerary Texts,Clusium,-480,50,"lθ  · carta · lθ 
+    caunal",,
+ETP 228,cinerary urn (travertine),SE 64 (2001) REE 7,Giulio Paolucci,Funerary Texts,Clusium,-480,50,θana . velθuria : uvial,,
+ETP 229,cinerary urn (travertine),SE 64 (2001) REE 8 (tav. XXXVIII),Giulio Paolucci,Funerary Texts,Clusium,-200,-100,lθ : purni : lθ : petrual :,,
+ETP 230,cinerary urn (travertine),SE 64 (2001) REE 9 (tav. XXXVIII),Giulio Paolucci,Funerary Texts,Clusium,-480,50,"θa : titi : parfilunia
+    melutaσa",,
+ETP 231,cinerary urn (travertine),SE 64 (2001) REE 10 (tav. XXXVIII),Giulio Paolucci,Funerary Texts,Clusium,-480,50,cae : seiante : au : tutnal,,
+ETP 232,cover of cinerary urn (travertine),SE 64 (2001) REE 11 (tav. XXXVIII),Giulio Paolucci,Funerary Texts,Clusium,-200,-200,larθ : laucane,,
+ETP 233,cinerary urn (ceramic),SE 64 (2001) REE 13 (tav. XXXIX),Giulio Paolucci,Funerary Texts,Clusium,-480,50,lθ : v [<i>vacat</i>] etis : herinial [:],,
+ETP 234,cover of cinerary urn (travertine),SE 64 (2001) REE 15 (tav. XXXIX),Giulio Paolucci,Funerary Texts,Ager Clusinus (Camporsevoli),-480,50,vl · σ[eθ]ṛna · ce [<i>vacat</i>] lias,The sibilants /s/ and /š/ were spelled as <i>sigma</i>.,
+ETP 235,cover of cinerary urn (travertine),SE 64 (2001) REE 16 (XXXIX),Giulio Paolucci,Funerary Texts,Ager Clusinus (Camporsevoli),-480,50,θana : cracia : seθrnaσa,The sibilants /s/ and /š/ were written as <i>sigma</i>.,
+ETP 236,cover of cinerary urn (travertine),SE 64 (2001) REE 17 (tav. XL),Giulio Paolucci,Funerary Texts,Ager Clusinus (Camporsevoli),-480,50,aθ : seθrna : cracias,,
+ETP 237,cover of cinerary urn (travertine),SE 64 (2001) REE 18 (tav. XL),Giulio Paolucci,Funerary Texts,Ager Clusinus (Camporsevoli),-480,50,aθ : σeθrna : clanti,,
+ETP 238,bronze statue,SE 56 (1991)  REE 69 (tav. LVIII),Mauro Cristofani,Dedications,Volcii,-300,-250,"ecn turce : pivi
+    patrus : unial
+    huinθnaias",The inscription was incised from bottom (line 1) to top (line 3).,
+ETP 239,small bronze altar or base,SE 56 (1991)  REE 82 (tav. LVIII),Enrico Benelli,Dedications,Volcii,-300,-300,"truφun · peθunus · v · lav
+    lurmicla · turce · XXX · cver",The inscription was incised on the four faces of the base.,
+ETP 240,slab (sandstone),SE 64 (2001) REE 19 (tav. XL),Silvia Vilucchi,Funerary Texts,Ager Saenensis (Pienza),-100,-0,"vel · ber
+    comsn
+    a · velosa {i}",The inscription was written in dextroverse direction in Latin letterforms. <b>vel</b> is twice written as a ligature. The <b>o</b> of <b>velosa</b> is very small. It appears to have been erroneously omitted and later inserted between <b>l</b> and <b>s</b>.,
+ETP 241,fragment of amphora (ceramic),SE 64 (2001) REE 22 (tav. XLI),Antonella Romualdi,Other/Unclear Texts,Populonia,-400,-300,teace,,
+ETP 242,bowl (ceramic),SE 64 (2001) REE 23 (tav. XL),Adriano Maggiani,Proprietary Texts,Isola d’Elba (Ilva),-200,-100,[l]arθ petrus,,
+ETP 243,cippus (nenfro),SE 64 (2001) REE 26 (tav. XLI),Massimo Morandi,Funerary Texts,Tarquinia,-300,-280,"numsi : 
+    larθi",,
+ETP 244,cippus (nenfro),SE 64 (2001) REE 27 (tav. XLI),Massimo Morandi,Funerary Texts,Tarquinia,-260,-240,"velfras · 
+    laris · 
+    ne","Line 3: <b>ne</b> is an abbreviation for the metronymic. The editor suggests <b>ne(vtnial)</b>, <b>ne(mtinal)</b>, or <b>ne(vrnial)</b>.",
+ETP 245,oinochoe (silver),SE 64 (2001) REE 30 (tav. XLII),Franceso Buranelli - Maurizio Sannibale,Proprietary Texts,Caere,-675,-650,[larθ]ia,The inscription could also be restored with the first personal pronoun: <b>mi [larθ]ia</b>.,
+ETP 246,fragment of kantharos (bucchero),SE 64 (2001) REE 32 (tav. XLIII),Daniele Maras,Proprietary Texts,Caere,-600,-550,aanθ trutana,Inscription (b): The first word is to be corrected to <b>a(r)anθ</b>.,
+ETP 247,Attic kylix (ceramic),SE 64 (2001) REE 36 (tav. XLIV),Daniele Maras,Religious Texts,Pyrgi,-500,-450,mi : σuris : cavaθas,The palatal sibilant /š/ is represented by a 4-bar sigma.,
+ETP 248,cup (ceramic),SE 64 (2001) REE 38 (tav. XLIV),Daniele Maras,Religious Texts,Pyrgi,-500,-480,: lu{v}cies,Punctuation is in the form of three points. <b>e</b> is corrected to <b>v</b>.,
+ETP 249,kylix (ceramic),SE 64 (2001) REE 39 (tav. XLIV),Daniele Maras,Religious Texts,Pyrgi,-500,-475,larzas maias,The editor suggests that this inscription could be segmented as <b>larz asmaias</b>. There are no <i>comparanda</i> for a family name of this form.,
+ETP 250,kylix (ceramic),SE 64 (2001) REE 40 (tav. XLIV),Daniele Maras,Religious Texts,Pyrgi,-500,-475,"ause
+    xxe","Giovanni Colonna, in an addedum to SE (2001) REE 40, proposes to read <b>alsel(i)e</b> or possibly  <b>ausel(i)e</b>, the later recalling the Roman family name <i>Aurelius</i>.",
+ETP 251,fragment of skyphos (ceramic),SE 64 (2001) REE 43 (tav. XLV),Daniele Maras,Religious Texts,Pyrgi,-500,-450,mi menervas,,
+ETP 252,fragment of Attic kylix (ceramic),SE 64 (2001) REE 50 (tav. XLV),Daniele Maras,Religious Texts,Pyrgi,-500,-450,cne[i]ve mini[ – – – ],,
+ETP 253,Attic krater (ceramic),SE 64 (2001) REE 37 (tav. XLIV),Daniele Maras,Religious Texts,Pyrgi,-480,-470,mi fuflunusra,,
+ETP 254,Attic kylix (ceramic),SE 64 (2001) REE 41 (tav. XLV),Daniele Maras,Dedications,Pyrgi,-500,-450,itan tu[r]uke e[ – – – ],,
+ETP 255,fragment of Attic kylix (ceramic),SE 64 (2001) REE 44 (tav. XLV),Daniele Maras,Religious Texts,Pyrgi,-500,-450,aθi[ – – – ],,
+ETP 256,fragment of Attic plate (ceramic),SE 64 (2001) REE 52 (tav. XLVI),Daniele Maras,Religious Texts,Pyrgi,-500,-400,[ – – – ]cavaθ[ – – – ],,
+ETP 257,fragment of Attic skyphos (ceramic),SE 64 (2001) REE 53 (tav. XLVI),Daniele Maras,Religious Texts,Pyrgi,-500,-400,[ mi ca]vaθas,,
+ETP 258,fragment of Attic skyphos (ceramic),SE 64 (2001) REE 55 (tav. XLVI),Daniele Maras,Religious Texts,Pyrgi,-500,-400,cavaθ[as : ]eca,,
+ETP 259,fragment of Attic cup (ceramic),SE 64 (2001) REE 56 (tav. XLVI),Daniele Maras,Religious Texts,Pyrgi,-500,-400,[ – – – cav]aθas [ – – – ],,
+ETP 260,fragmentary Attic glaux (ceramic),SE 64 (2001) REE 57 (tav. XLVI),Daniele Maras,Religious Texts,Pyrgi,-450,-450,m[i] θane tuvθi,,
+ETP 261,fragment of Attic skyphos (ceramic),SE 64 (2001) REE 58 (tav. XLVI),Daniele Maras,Religious Texts,Pyrgi,-450,-400,mi · cavθas,,
+ETP 262,fragment of basin (impasto),SE 64 (2001) REE 59 (tav. XLVII),Daniele Maras,Religious Texts,Pyrgi,-450,-400,[m]i ca[vθas],,
+ETP 263,fragment of cup (ceramic),SE 64 (2001) REE 62 (tav. XLVII),Daniele Maras,Religious Texts,Pyrgi,-300,-300,ve[ . ]is,The editor suggests that the inscription be restored as <b>vei[v]is</b>.,
+ETP 264,nameplate (bronze),SE 64 (2001) REE 63 (tav. XLVIII),Daniele Maras,Religious Texts,Pyrgi,-300,-300,lapse,The nameplate was affixed to the base of an offering of some type. See also inscription ETP 265.,
+ETP 265,nameplate (bronze),SE 64 (2001) REE 64 (tav. XLVIII),Daniele Maras,Religious Texts,Pyrgi,-300,-300,lapse,The nameplate was affixed to an offering of some type. See inscription ETP 264.,
+ETP 266,fragment of chalice (bucchero),SE 64 (2001) REE 97 (tav. L),Barbara Belelli Marchesini,Other/Unclear Texts,Veii,-500,-500,[ – – – ]i menra ak[ – – – ],"In an addendum to REE 97 (pp. 425-426), Giovanni Colonna proposes to restore the inscription as <b>[ min]i menra ak[asce]</b>.  For details, the reader is referred to pp. 425-426.",
+ETP 267,cup (ceramic),SE 64 (2001) REE 98 (tav. L),Barbara Belelli Marchesini,Religious Texts,Veii,-300,-300,lanies,,
+ETP 268,wall (tufa),SE 64 (2001) REE 99 (tav. L),Massimiliano Munzi,Other/Unclear Texts,Ager Veientanus (La Cavetta),-500,-400,larθ eθrisna,The inscription was incised on the face of a roadway sliced through tufaceous rock. The name may be the name of the public official responsible for the work.,
+ETP 269,kantharos (bucchero),SE 64 (2001) REE 102 (tav. LI),Giovanni Colonna,Dedications,Origin Unknown (South),-625,-600,mini muluvanice tetana ve.l.ka.s.na.s. veleliiasi,The inscription was incised in dextroverse direction.,
+ETP 270,kantharos (bucchero),SE 64 (2001) REE 103 (tav. LI),Dominique Briquel,Proprietary Texts,Origin Unknown (South),-700,-480,mi venelus,,
+ETP 271,fragment of cup (bucchero),SE 64 (2001) REE 100 (tav. LI),Giovanni Colonna,Proprietary Texts,Campania (Eboli),-500,-500,mi mutilates,The inscription was incised in dextroverse direction.,
+ETP 272,cup (ceramic),SE 64 (2001) REE 104 (tav. LI),Dominique Briquel,Proprietary Texts,Origin Unknown (South),-480,50,θenus,,
+ETP 273,amphora (ceramic),SE 64 (2001) REE 105 (tav. LI),Dominique Briquel,Proprietary Texts,Origin Unknown (South),-700,-480,mi tarnaial,,
+ETP 274,cinerary urn (ceramic),SE 64 (2001) REE 108 (tav. LII),Dominique Briquel,Funerary Texts,Origin Unknown (North),-200,-0,laris : almni : larθ[al],The inscription was painted in red letters along the upper border of the cask. The urn is a type common at Chiusi.,
+ETP 275,cinerary urn (ceramic),SE 64 (2001) REE 112 (tav. LII),Dominique Briquel,Funerary Texts,Origin Unknown (North),-480,50,vel · cae ·,"The inscription was painted in black letters along the upper border of the cask. Single punctuation points are visible, but their elevated position suggests that they were originally double points ( <b>: </b>).",
+ETP 276,cinerary urn (ceramic),SE 64 (2001) REE 112 (tav. LII),Dominique Briquel,Funerary Texts,Origin Unknown (North),-480,50,f [ . ]a[ . ]nei : tut[<i>vacat</i>]nali[iσa],The inscription was painted in red letters along the upper border of the cask. The urn is a type common at Chiusi. The feminine gentilicium could be restored as <b>f[r]a[u]nei</b>.,
+ETP 277,cinerary urn (ceramic),SE 64 (2001) REE 113 (tav. LII),Dominique Briquel,Funerary Texts,Origin Unknown (North),-480,50,larθi : vi[p]inei : tutn[a]σa,The inscription was painted in red letters along the border of the cask. The urn is a type common at Chiusi.,
+ETP 278,cinerary urn (terracotta),SE 64 (2001) REE 114 (tav. LII),Dominique Briquel,Funerary Texts,Origin Unknown (North),-480,50,θana [ – – – ],The inscription was painted in black letters along the border of the cask. The urn is a type common at Chiusi.,
+ETP 279,statue (bronze),SE 64 (2001) REE 115 (tav. LIII),Koen Wylin,Dedications,Origin Unknown (North),-200,-100,"au · ceisina · la eiser
+    as · θuflθas · 
+    turce",The final /s/ of <b>eiseras</b> is written with <i>tsade</i>,
+ETP 280,cippus (nenfro),SE 64 (2001) REE 126,Massimo Morandi,Funerary Texts,Tarquinia,-480,50,cusinas · larθal,,
+ETP 281,cippus (nenfro),SE 64 (2001) REE 127,Massimo Morandi,Funerary Texts,Tarquinia,-480,50,"heiri · ra
+    mθa · a
+    r",,
+ETP 282,cover of ziro (travertine),SE 64 (2001) 213-224 (tav. XXXVa),Enrico Benelli,Abecedaria,Ager Chiusinus (Chianciano Terme),-500,-500,a c e v z h,The <i>abecdedarium</i> was inscribed in sinistroverse direction.,"<ul>
+<li>
+Benelli, Enrico. 2001. Quattro nuove iscrizioni etrusche arcaiche. <i>SE</i> 64.213-214.</li>
+</ul>"
+ETP 283,small cinerary urn (stone),SE 64 (2001) 213-224 (tav. XXXVb),Enrico Benelli,Abecedaria,Ager Chiusinus (Chianciano Terme),-500,-500,a e v z h θ,,"<ul>
+<li>
+Benelli, Enrico. 2001. Quattro nuove iscrizioni etrusche arcaiche. <i>SE</i> 64.213-214.</li>
+</ul>"
+ETP 284,double vase (bucchero),SE 58 (1993) 173-176 (tav. LVI),Marina Martelli,Dedications,Volaterrae (Colle Val d'Elsa),-600,-600,mini muluvunike pisna perkena,,"<ul>
+<li>
+Martelli, Marina. 1993. Un nuovo testo etrusco di dono. <i>SE</i> 58.173-176.</li>
+</ul>"
+ETP 285,wall of tomb (stone),SE 64 (2001) 213-224 (tav. XXXVg),Enrico Benelli,Prohibitions,Ager Chiusinus,-500,-400,ein θui ara enan,<i>Theta</i> has the form of a cross <b>X</b>.,"<ul>
+<li>
+Benelli, Enrico. 2001. Quattro nuove iscrizioni etrusche arcaiche. <i>SE</i> 64.213-214.</li>
+</ul>"
+ETP 286,cippus (stone),Archaeologia perusina 15 (2001) 129-139 (tav. XIX),Luciano Agostiniani - Mario Torelli,Boundary Markers,Cortona,-200,-150,"luθcval
+    canθiσa
+    l",,"<ul>
+<li>
+Agostiniani, Luciano &amp;amp; Mario Torelli. 2001. Un cippo confinario etrusco da Cortona. <i>Archaeologia perusina</i> 15.129-139.</li>
+</ul>"
+ETP 287,cippus (stone),SE 57 (1991) REE 35 (tav. XLVI),Pietro Tamburini,Funerary Texts,Volsinii,-200,-100,σ : cemnil : v,"Feminine genitive singulars ending in plain <b>-l</b> are rare. The editor proposes two ways to emend: (1) Expunge the final <b>-l</b>, in which case the onomastic phrase has zero inflection. At Volsinii onomastic phrases in funerary texts are typically rendered in casus zero. (2) Emend the genitive form to <b>-(a)l</b> and read as <b>cemni(a)l</b>.",
+ETP 288,architrave (stone),SE 57 (1991) REE 36,Alessandro Naso,Funerary Texts,Tuscania,-700,-480,s [ . . ]vus,,
+ETP 289,fragment of plate (ceramic),SE 57 (1991) REE 45 (tav. L),Mauro Cristofani,Proprietary Texts,Caere,-700,-650,mi hvlaves : spati,Both <i>sigmas</i> were written with five strokes.,
+ETP 290,fragment of chalice (ceramic),SE 57 (1991) REE 46 (tav. L),Mauro Cristofani,Proprietary Texts,Caere,-650,-650,[mi r]amuθas,<i>Sigma</i> was written with four bars.,
+ETP 291,plate (ceramic),SE 57 (1991) REE 49,Mauro Cristofani,Proprietary Texts,Campania (Fratte di Salerno),-500,-500,pe,The letters <b>pe</b> were incised beneath the last two letters of inscription (a).,
+ETP 292,Attic kylix (ceramic),SE 57 (1991) REE 51,Marina Martelli,Proprietary Texts,Unknown (South),-480,-480,mi klutias,,
+ETP 293,Attic amphora (ceramic),SE 57 (1991) REE 52,Marina Martelli,Other/Unclear Texts,Unknown (South),-480,-470,χeχe[n]ar,,
+ETP 294,thymiaterion (bronze),SE 57 (1991) REE 53 (tav. LI),Marina Martelli,Funerary Texts,Unknown (South),-400,-380,σuθina,Inscription (a) was incised vertically along the trunk; (b) was incised within the incense holder. Both were written in sinistroverse direction.,
+ETP 295,cup (ceramic),SE 60 (1995) REE 1 (tav. XXXV),Stefano Bruni,Proprietary Texts,Pisae,-550,-525,mi aranθial,,
+ETP 296,fragment of cup (bucchero),SE 60 (1995) REE 2 (tav. XXXV),Stefano Bruni,Other/Unclear Texts,Pisae,-625,-550,[ – – – ]xeai,,
+ETP 297,fragment of cup (bucchero),SE 60 (1995) REE 3 (tav. XXXV),Stefano Bruni,Proprietary Texts,Pisae,-550,-550,uri,,
+ETP 298,cover of urn (alabaster),SE 60 (1995) REE 9 (tav. XXXVI),Maurizio Sannibale,Funerary Texts,Volaterrae,-150,-100,x[  – – – ]xxxxx(x)nal,,
+ETP 299,cinerary urn (terracotta),SE 60 (1995) REE 11 (tav. XXXVI),Maurizio Sannibale,Funerary Texts,Ager Chiusinus,-200,-150,la,,
+ETP 300,cinerary urn (terracotta),SE 60 (1995) REE 12 (tav. XXXVII),Maurizio Sannibale,Funerary Texts,Ager Chiusinus,-200,-150,la[ – – –]xza[ – – – ],,
+ETP 301,cinerary urn (terracotta),SE 60 (1995) REE 13 (tav. XXXVII),Maurizio Sannibale,Funerary Texts,Ager Chiusinus,-150,-100,xx [<i>vacat</i>] a[ – – –] ax : pet[<i>vacat</i>]runial,,
+ETP 302,fragment of vase (ceramic),SE 60 (1995) REE 18 (tav. XXXIX),Maristella Pandolfini,Proprietary Texts,Tarquinia,-300,-200,[ – – – ]x cluetieṣ [ – – – ],,
+ETP 303,fibula (gold),SE 60 (1995) REE 19 (tav. XL-XLI-XLIII),Francesco Buranelli,Dedications,Unknown (South),-630,-630,mi mulu araθiale θanaχvilus prasanaia,,
+ETP 304,strigile (bronze),SE 60 (1995) REE 20 (tav. XXXIX),Helmut Rix,Artisans' Texts,Unknown,-350,-250,men tite,The text was stamped on the handle of the strigile. The letters run in dextroverse direction.,
+ETP 305,fragment of bowl (ceramic),SE 60 (1995) REE 21 (tav. XXXIX),Helmut Rix,Proprietary Texts,Unknown,-480,50,[ – – – ]iana ram[θa – – – ],,
+ETP 306,copy (manuscript),SE 60 (1995) REE 22 (tav. XXXIX),Adriano Maggiani,Funerary Texts,Unknown (North),-400,-300,mi fastial vestrknal,,
+ETP 307,tegola (terracotta),SE 60 (1995) REE 32 (tav. XLVI),Maurizio Sannibale,Other/Unclear Texts,Ager Chiusinus,-200,-150,rau ur : ve,Punctuation is in the form of two small <b>x</b>s.,
+ETP 308,fragment of plate (ceramic),SE 60 (1995) 38,Adriano Maggiani,Proprietary Texts,Chiusi,-480,50,la cae,The text was stamped on the ceramic.,
+ETP 309,fragment of olla (ceramic),SE 60 (1995) 41,Adriano Maggiani,Proprietary Texts,Populonia,-700,-480,leθx[ – – – ],<i>Theta</i> has the form of a cross <b>X</b>.,
+ETP 310,Attic oinochoe (ceramic),SE 60 (1995) 46,Marina Martelli,Proprietary Texts,Volcii,-520,-520,lai,,
+ETP 311,bowl (ceramic),SE 60 (1995) 49 (tav. LII),Mauro Cristofani,Proprietary Texts,Campania (Pontecagnano),-300,-300,truχiles,,
+ETP 312,cinerary urn (terracotta),SE 60 (1995) 60,Adriano Maggiani,Funerary Texts,Unknown,-150,-150,vl · utani · aninal · vl ·,,
+ETP 313,cinerary urn (terracotta),SE 60 (1995) 61,Adriano Maggiani,Funerary Texts,Unknown,-100,-0,arnθ · vipina · cuφre,,
+ETP 314,vase (terracotta),SE 60 (1995) 62,Adriano Maggiani,Proprietary Texts,Unknown,-480,50,tania,,
+ETP 315,tegola (terracotta),SE 60 (1995) 74,Adriano Maggiani,Funerary Texts,Unknown,-480,50,larnei,,
+ETP 316,cover of cinerary urn (stone),SE 60 (1995) 77,Adriano Maggiani,Funerary Texts,Unknown,-480,50,"θana larn
+    ei cestinal
+    a",,
+ETP 317,fragment of bowl (impasto),SE 58 (1993) REE 3 (tav. LXIII),Giuseppe Sassatelli,Abecedaria,Aemilia (Marzabotto),-550,-500,a e v,,
+ETP 318,bowl (impasto),SE 58 (1993) REE 4,Giuseppe Sassatelli,Abecedaria,Aemilia (Marzabotto),-550,-500,[ – – – ] x a e v z [ – – – ],"Of the initial letter, the editor sees only a very short oblique stroke.",
+ETP 319,fragment of dolium (ceramic),SE 58 (1993) REE 5 (tav. LXIII),Giuseppe Sassatelli,Proprietary Texts,Aemilia (Marzabotto),-700,-480,[ – – – ]xiai,,
+ETP 320,small cup (ceramic),SE 58 (1993) REE 2 (tav. LXIII),Giuseppe Sassatelli,Abecedaria,Aemilia (Marzabotto),-500,-450,a e [ – – – ],,
+ETP 321,fragment of bowl (ceramic),SE 58 (1993) REE 6 (tav. LXIII),Giuseppe Sassatelli,Proprietary Texts,Aemilia (Marzabotto),-600,-500,[ – – – ]z sakiu [– – – ],The inscription was incised in dextroverse direction.,
+ETP 322,fragment of basin (ceramic),SE 58 (1993) REE 7 (tav. LXIII),Giuseppe Sassatelli,Proprietary Texts,Aemilia (Marzabotto),-500,-400,[ – – – ]vetalus[– – – ],The inscription was incised in dextroverse direction.,
+ETP 323,handle of amphora (impasto),SE 58 (1993) REE 8 (tav. LXIII),Giuseppe Sassatelli,Proprietary Texts,Aemilia (Marzabotto),-520,-500,θina rakalus,The inscription was incised in dextroverse direction. <i>Theta</i> has the form of a cross <b>X</b>.,
+ETP 324,plate (impasto),SE 58 (1993) REE 20 (tav. LXV),Marina Martelli,Proprietary Texts,Caere,-650,-550,σii,,
+ETP 325,fragment of vase (bucchero),SE 58 (1993) REE 21 (tav. LXV),Laura Ricciardi,Proprietary Texts,Blera,-600,-400,mi ramaθas treseles,,
+ETP 326,drinking cup (bucchero),SE 58 (1993) REE 22 (tav. LXV),Laura Ricciardi,Proprietary Texts,Ager Caeretanus (Tolfa),-630,-630,avi,The inscription was incised in dextroverse direction.,
+ETP 327,amphora (ceramic),SE 58 (1993) REE 26,Marina Martelli,Proprietary Texts,Volcii,-480,50,caial,,
+ETP 328,cippus (tufa),SE 58 (1993) REE 29,Pietro Tamburini,Funerary Texts,Ager Volsiniensis (Sermugnano),-300,-100,ram[θa – – – ]xi,,
+ETP 329,thymiaterion (bronze),SE 58 (1993) REE 32,Mauro Cristofani,Religious Texts,Unknown  (South),-400,-400,mi · selvansl · canlas,,
+ETP 330,mirror (bronze),SE 58 (1993) REE 33,Mauro Cristofani,Didaskalia,Unknown  (South),-400,-300,peleas turis nele,,
+ETP 331,small plate (ceramic),SE 58 (1993) REE 1 (tav. LXIII),Maristella Pandolfini,Proprietary Texts,Venetia (Spina),-350,-350,mi venus platunalus,,
+ETP 332,statue (bronze),SE 55 (1989) REE 128,Carlo de Simone,Dedications,Volsinii (Bolsena),-300,-300,"ecn : turce : avle : havrnas : tuθina : apana
+    selvansl tularias",,
+ETP 333,stele (stone [travertine]),Nuovi etnici e toponimi etruschi (1999) 51-61 (tav. I-II),Adriano Maggiani,Funerary Texts,Saturnia,-525,-500,"larθ laucies θamequ
+    larecesi ka
+    iseriθesi celeniarasi
+    mini zinece veθur kam
+    arteθi",,"<ul><li>
+Maggiani, Adriano. 1999. Nuovi etnici e toponimi etruschi. <i>Incontro di studi in memoria di Masssimo Pallottino</i>, 51-61. Pisa e Roma: Istituto editoriali e poligrafici internazionali. </li></ul>"
+ETP 334,cinerary urn (terracotta),SE 60 (1995) REE 14 (tav. XXXVII),Helmut Rix,Funerary Texts,Ager Chiusinus,-100,-0,"hasti : velθuria : lautni 
+    θa",,
+ETP 335,mirror (bronze),An Etruscan Mirror in Tokyo (2000) 69-77,Nancy DeGrummond,Proprietary Texts,Unknown (South),-475,-450,mi malana larθiia cavis spuriies,,"<ul><li>
+DeGrummond, Nancy. 2000. An Etruscan Mirror in Tokyo. In M. D. Gentili (ed.), <i>Aspetti e problemi della produzione degli specchi etruschi figurati. Attio dell'incontro internazionale di studio (Roma, 2-4 maggio 1997), 69-77. Roma: Aracne.</i>
+</li></ul>"
+ETP 336,statue base (tufa),SE 70 (2005) REE 55,Giovanni Colonna,Dedications,Caere,-300,-300,"ecn : turce
+    m : haθles
+    vle",,"<ul><li>
+
+Nardi, Giuliana. 2001. <i>Prospettiva</i> 103/104.8 (fig. 19).
+
+</li></ul>"
+ETP 337,facade of tomb,SE 70 (2005) REE 10 (tav. XLIX),Adriano Maggiani,Funerary Texts,Ager Volcentanus (Suana),-200,-150,"eca σuθ[i - - - ]
+    zatneal",Half of the letter <i>theta</i> in <b>σuθ[i]</b> survives. It has the shape of a circle. The oblique bar of the <i>lambda</i> of <b>zatneal</b> is no longer visible.,
+ETP 338,kylix (ceramic),SE 70 (2005) REE 27 (tav. LI),Carmine Pellegrino,Proprietary Texts,Campania (Pontecagnano),-500,-500,mi larzas atrnas,The inscription was incised on the inside of the basin of the kylix.,"<ul><li>
+
+Colonna, Giovanni. 2005. SE 70, REE 27.303.
+
+</li></ul>"
+ETP 339,greaves (bronze),L’offerta di armi a Minerva e un probabile cimelio della spedizione di Aristodemo nel Lazio (1999) 95-103.,Giovanni Colonna,Dedications,Perusia,-500,-450,arnθ savpunias turce menrvas,,"<ul>
+<li>
+Bonfante, Giuliano and Larissa Bonfante. 2002 [Revised Edition]. <i>The Etruscan Language. An Introduction</i>, pp. 144-145, no. 22. Manchester: Manchester University Press.</li>
+<li>Colonna, Giovanni. 1999. L’offerta di armi a Minerva e un probabile cimelio della spedizione di Aristodemo nel Lazio. In <i>Pallade di Velletri. Il mito, la fortuna</i>. 1797–1997 bicentenario del ritrovamento. Atti, 95-103. Roma.</li>
+</ul>"
+ETP 340,club (bronze),Scienze dell’Antichità (1989-1990) 3-4.894-898 (fig. 14),Giovanni Colonna,Dedications,Unknown,-250,-200,"cn · turce
+    tite · uta
+    ves · v · l · 
+    hercles 
+    alpan ·",,"<ul><li>
+Colonna, Giovanni. 1989-1990. Le iscrizioni votive etrusche. Scienze dell’Antichità 3-4.875-903.</li></ul>"
+ETP 341,kylix (ceramic),SE 70 (2005) REE 24 (tav. LI),Carmine Pellegrino,Proprietary Texts,Unknown,-9999,9999,mi cailes cutus,,"<ul><li>
+
+Colonna, Giovanni. 2005. SE 70, REE 24.299.
+
+</li></ul>"
+ETP 342,fragment of cup (bucchero),SE 70 (2005) REE 30 (tav. LII),Carmine Pellegrino,Other/Unclear Texts,Campania (Pontecagnano),-525,-475,θun vertun cẹ[ - - - - - - - - - - ]aχuis,,
+ETP 343,disk (bronze),ENews (2006) 5.5,Dominique Briquel,Tesserae Hospitales,Algeria (Gouraya),-200,-100,"pumpun
+    larθal","The letters in this text are in dextroverse direction.
+
+Bibliography:
+<ul>
+<li>Briquel, Dominique. 2006. A neglected Etruscan inscription. <i>Etruscan News</i> 5.5.</li>
+</ul>",
+ETP 344,chalice (impasto),"SE 66 (1991) REE 73, 350-356 (tav. LXIV)",Dominique Briquel,Proprietary Texts,Caere,-700,-675,mi laucies mezeṇṭies,"Bibliography:
+<ul>
+<li>Bagnasco Gianni, Giovanna. 1996. <i>Oggetti iscritti di epoca orientalizzante in Etruria</i>, pg. 108, no. 84. Firenze: Leo S. Olschki.</li>
+<li>Briquel, Dominique. 1989. A propos d’une inscription redécouverte au Louvre: remarques sur la tradition relative a Mézence. <i>REL</i> 67.78-92.</li>
+<li>Gualtier, F. and Dominique Briquel. 1989. Réexamen d’une inscription des collections du Musée du Louvre: un Mézence à Caeré au VIIe siècle av.J-C. <i>CRAI</i> janvier-mars, 99-115.</li>
+<li>Gualtier, Françoise, J. Gran-Aymerich, and Dominique Briquel. 1991. <i>SE</i> 66, REE 73, 350-356.</li>
+</ul>",
+ETP 345,small vase (impasto),"Collezione C. A. (1991) pp. 22-25, no. 22 (tav. XII)",Giovannangelo Camporeale,Proprietary Texts,Unknown (South),-700,-650,mi luθumas qutumuθa,"Sigma was written with 4 bars.
+
+Bibliography:
+<ul>
+<li>Bagnasco Gianni, Giovanna. 1996. <i>Oggetti iscritti di epoca orientalizzante in Etruria</i>, no. 310, pp. 313-314. Firenze: Leo S. Olschki.</li>
+<li>Camporeale, Giovannangelo. 1991. La Collezione C. A. Impasti e buccheri I. Roma.</li>
+</ul>",
+ETP 346,aryballos (bucchero),"Collezione C. A. (1991) pp. 142-144, no. 145 (tav. CIX)",Giovannangelo Camporeale,Proprietary Texts,Unknown (South),-700,-650,mi xuiḥṿlies qutum,"Bibliography:
+<ul>
+<li>Bagnasco Gianni, Giovanna. 1996. <i>Oggetti iscritti di epoca orientalizzante in Etruria</i>, no. 312, pp. 314. Firenze: Leo S. Olschki.</li>
+<li>Camporeale, Giovannangelo. 1991. La Collezione C. A. Impasti e buccheri I. Roma.</li>
+</ul>",
+ETP 347,bowl (impasto),SE 70 (2005) REE 1 (tav. XLVII),Monica Salvini,Proprietary Texts,Ager Faesulanus (Florentia),-650,-575,upu,,
+ETP 348,fragment of foot of cup (impasto),SE 70 (2005) REE 7 (tav. XLVIII),Marisa Bonamici,Proprietary Texts,Populonia,-450,-400,title,,
+ETP 349,fragment of skyphos (ceramic),SE 70 (2005) REE 8,Marisa Bonamici,Other/Unclear Texts,Populonia,-300,-300,sesa,The sequence <b>ve</b> and the letter <b>s</b> (<i>sade</i>) were also incised on the foot of the skyphos.,
+ETP 350,fragment of olla (impasto),SE 70 (2005) REE 9 (tav. XLVIII),Marisa Bonamici,Other/Unclear Texts,Populonia,-480,50,[ – – – ]s u[ – – – ],,
+ETP 351,wall of tomb,SE 70 (2005) REE 11,E. Pellegrini,Funerary Texts,Ager Volcentanus (Poggio Grezzano),-225,-200,ramθa puxx[ – – – ],,
+ETP 352,weight (bronze),PP (2005),Giulio Facchetti &amp; Koen Wylin,Dedications,Caere,-350,-350,"raθs · turmsal
+    velus luvχmsal
+    θusti · θui meθlmθ
+    mu[n]sθ[e]c [ · ] ims · epl
+    macuni · hercles
+    alpan tece IIC
+    ei · utta θesca
+    ac · penθa · [ - (-)] · hu
+    lave · zilci·  laθ
+    ale · nulaθes ·","Bibliography:
+<ul>
+<li>Cristofani, Mauro. 1996. Due Testi dell’Italia Preromana. 1. Per regna Maricae. 2. Aequipodium Etruscum. Roma: Consiglio Nazionale delle Ricerche.</li>
+<li>Facchetti, Giulio M. &amp;amp; Koen Wylin. 2005. Note preliminary sull’aequipondium di Cere. AION 23 (in press).</li>
+<li>—. 2005. Nuove letture sull’aequipondium di Caere. PP XX. </li>
+<li>Maggiani, Adriano. 1996. Appunti sulle magistrature etrusche. SE 62.95-138 [n. 69, pg. 136].</li>
+<li>—. 2001a. Pesi e bilance in Etruria. Pondera. Pesi e Misure nell’Antichità, a cura di C. Corti, N. Giordani, pp. 67-74 (pg. 67, 72, n. II.3, fig. 35). Museo della Bilancia: Campogalliano.</li>
+<li>—. 2001b. II.B.5.2. Peso. In Moretti Sgubini, Anna Maria (a cura di), Veio, Cerveteri, Vulci. Città d’Etruria a Confronto. Catalogo della Mostra, pg. 153 (with photo and facsimile). Roma: “L’Erma” di Bretschneider.</li>
+<li>—. 2002. La libbra etrusca. Sistemi ponderali e monetazione. SE 65-68.163-199.</li>
+</ul>",
+ETP 353,fragment of kyathos (bucchero),To appear SE 71 (2006),Rex E. Wallace,Dedications,Ager Saenensis (Murlo),-600,-600,mi[ni velθ]ur paiθinaie[s mu]lu[vani]ce,"It is possible that the family name <b> paiθinaies</b> did not end with final /s/. Due to damage to the kyathos it is impossible to determine the amount of space available for letters with any certainty.
+
+Bibliography:
+<ul>
+<li>
+Colonna, Giovanni. 2005. SE 70, REE 52.</li>
+<li>Wallace, Rex E. To appear 2006.  Etruscan Inscriptions on Fragments of Bucchero Kyathoi Recovered at Poggio Civitate. SE 71.</li>
+</ul>",
+ETP 354,fragment of kyathos (bucchero),SE 70 (2006) REE 53,Giovanni Colonna,Dedications,Ager Saenensis (Murlo),-600,-600,[mini mulu]van[ice – – – ],"Bibliography:
+<ul><li>
+Wallace, Rex E. To appear 2006. Etruscan Inscriptions on Fragments of Bucchero Kyathoi Recovered at Poggio Civitate. SE 71.</li></ul>",
+ETP 355,wall of tomb,SE 70 (2005) REE 13 (tav. XLIX),Giovanni Colonna,Funerary Texts,Caere,-480,50,cae is[na] LII,The editor notes that the family name could also be restored as <b>is[nas]</b>.,
+ETP 356,aryballos (Etrusco-Corinthian ceramic),SE 70 (2005) REE 19 (tav. XLIX),Daniele F. Maras,Proprietary Texts,Veii,-600,-600,u.na. uras pep.unas.,The final /s/ of <b>pep.unas.</b> was spelled by means of the letter <b>X</b>. The inscription was incised in dextroverse direction.,
+ETP 357,Attic kylix (ceramic),SE 70 (2005) REE 20 (tav. XLIX),Lidia Falcone,Proprietary Texts,Capua,-475,-450,calve,,
+ETP 358,kylix (ceramic),SE 70 (2005) REE 24 (tav. LI),Carmine Pellegrino,Proprietary Texts,Campania (Pontecagnano),-500,-475,mi cailes cutus,,"<ul><li>
+
+Colonna, Giovanni. 2005. SE 70, REE 27, 303.
+
+</li></ul>"
+ETP 359,kothon (ceramic),SE 70 (2005) REE 29 (tav. LI),Carmine Pellegrino,Religious Texts,Campania (Pontecagnano),-500,-475,turan,"Bibliography:
+<ul><li>
+
+Colonna, Giovanni. 2005. SE 70, REE 29, 305-306.
+
+</li></ul>",
+ETP 360,fragment of plate (ceramic),SE 70 (2005) REE 31 (tav. LII),Adriano Maggiani,Proprietary Texts,Origin Unknown,-480,50,[ – – – lau]χumsn[a – – – ],,
+ETP 361,funerary urn (ceramic),SE 70 (2005) REE 32 (tav. LII),Adriano Maggiani,Funerary Texts,Origin Unknown,-150,-100,lθ : anie : lθ : celtalval :,,
+ETP 362,fragment of plaque (ivory),,Rex E. Wallace,Tesserae Hospitales,Ager Saenensis (Murlo),-600,-600,[ – – – ]as vheisalna[ –  –  – ],"The inscription was incised on the reverse of a plaque in the form of a female figurine. It is possible that the <i>tessera</i> belonged to a woman, in which case one might propose to restore the text in the following way: <b>[mi veleli]as vheisalna[ia]</b>.",
+ETP 363,fragment of plaque (bone),,Rex E. Wallace,Tesserae Hospitales,Ager Saenensis (Murlo),-600,-600,[ – – – ]xσxxxilax[–  –  – ],The inscription was incised on the reverse of a plaque which seems to have the form of an animal.,
+ETP 364,fragment of cup (bucchero),,Rex Wallace,Dedications,Ager Saenensis (Murlo),-600,-600,[ – – – ]m[u]lu[ – – – ],"If the second visible letter is to be read as <i>lambda</i>, as appears to be the case, then the fragment preserves either the word <b>m[u]lu</b> ‘given’ in its entirety or the first portion of the past tense verb form <b>m[u]lu[vanice]</b> ‘gave (in honor of)’. Under either interpretation the inscription belongs to the class of a dedications and permits additional reconstruction: 
+
+(a) <b>[mi] m[u]lu</b> + name in pertinentive case
+(b) <b>[mini] m[u]lu[vanice]</b> + name in nominative/accusative case",
+ETP 365,fragment of cup (bucchero),"Orientalizing Bucchero (2003) 83 (figure 30, no. 137; plate 25, no. 137)",Jon Berkin,Other/Unclear Texts,Ager Saenensis (Murlo),-600,-600,[ – – – ]urθ[ – – – ],"Bibliography:
+<ul><li>
+Berkin, Jon. 2003. <i>The Orientalizing Bucchero from the Lower Building at Poggio Civitate (Murlo)</i>. Boston, MA: Archaeological Institute of America.</li></ul>",
+ETP 366,fragment of cup (bucchero),"Orientalizing Bucchero (2003) 83-84 (figure 30, no. 138; plate 25, no. 138)",Jon Berkin,Other/Unclear Texts,Ager Saenensis (Murlo),-600,-600,[ – – – ]alv[  – – – ],"Berkin (2003: 84) describes the initial letter as ‘perhaps part of a beta’. This is virtually impossible because the Etruscan writing system made no use of this letter and it appears only in abecedaria of the early to mid-archaic period. It is more likely that we have an alpha whose medial bar slopes in the direction of writing so dramatically that it meets the left-most oblique stroke near its foot.
+
+Bibliography:
+<ul><li>
+Berkin, Jon. 2003. <i>The Orientalizing Bucchero from the Lower Building at Poggio Civitate (Murlo)</i>. Boston, MA: Archaeological Institute of America.</li></ul>",
+ETP 367,fragment of cup (bucchero),"Orientalizing Bucchero (2003) 84 (figure 30, no. 139; plate 25, no. 139)",Jon Berkin,Other/Unclear Texts,Ager Saenensis (Murlo),-600,-600,[ – – – ]tinai[ – – – ],"Berkin (2003: 84) describes the first legible letter as ‘pi or c'. The puncts described by Berkin appear to be pits in the ceramic, not word-punctuation. The surviving portion of this inscription is perhaps the final portion of a feminine family name.
+
+
+Bibliography:
+<ul><li>
+Berkin, Jon. 2003. <i>The Orientalizing Bucchero from the Lower Building at Poggio Civitate (Murlo)</i>. Boston, MA: Archaeological Institute of America.</li></ul>",
+ETP 368,fragment of vase (bucchero),,Greg Warden,Other/Unclear Texts,Ager Faesulanus (Poggio Colla),-600,-575,[ – – – ]nutas[ – – – ],The inscription may also be read as <b>[ – – – ]mutas[ – – – ]</b>. Of the first letter only the upper portion of an oblique bar is visible.,
+ETP 369,fragment of cup (ceramic),Riflessioni sul Tavola di Cortona (2002) 67-69 (tav. 3-4),Adriano Maggiani,Proprietary Texts,Rusellae,-200,-200,[ – – – ]xtrus · apanal · θucl ·,,"<ul><li>
+Maggiani, Adriano. 2002. Riflessioni sulla Tavola di Cortona. In M. Pandolfini and A. Maggiani (eds.), <i>La Tabula Cortonensis e il suo contesto storico-archaeologico.</i>  Atti dell’Incontro di studio, 22 giugno 2001  (Rome 2002), pp. 65-75. Roma: Consiglio Nazionale delle Ricerche.
+</li></ul>"
+ETP 370,kyathos (bucchero),"RM 113 (2007) 217–240 (fig. 4, 7, 9, 12)",Luca Cappuccini,Funerary Texts,Vetulonia (Santa Teresa),-650,-630,mini l[a]uχu[ś]hie paiθin[a]σ muluvan[ice] mlak[aσ],"The inscription was inscribed in a spiral up around the upper part of the conical base of the kyathos. The /s/ of <b>paiθin[a]σ</b> is represented by the letter <i>san</i>. The reconstruction of mlak[aσ] as a genitive in agreement with the gentilicium paiθin[a]σ does not make sense syntactically. Reconstruction as a pertinentive, mlak[aσi], with an interpretation along the lines of ""to a good (man)"" seems much more likely.","Cappuccini, Luca. 2007. I kyathoi di Santa Teresa di Gavorrano e il ceramista dei Paiθina. Mitteilungen des Deutschen Archaeologischen Instituts. Römische Abteilung 113.217-240. Cappuccini, Luca and Luigi Donati. 2007. Gavorrano (GR). Santa Teresa. Notizario Toscana 3.679-682."
+ETP 371,carinted cup (bucchero),E 1 (1974),Giovanni Colonna,Funerary Texts,Eboli,-575,-525,qupe,"Colonna describes the /p/ as having a hook, and writes that the /q/ has a very small circle.","Colonna (1974), n.20; <i>Firenze 1985</i>, p.132, 5.12."
+ETP 372,fragment of kylix (type c),E 2 (1984),Giovanni Colonna,Funerary Texts,Eboli,,,[c]uliχna a[---],Spacing between the words.,
+ETP 373,kantharos (bucchero),PC 1-4,Giovanni Colonna,Funerary Texts,Campania (Pontecagnano),-600,-580,ac,Found inscribed vertically on the handles of four bucchero kantharoi on high pedastals.,"Cristofani (1985), n.61 (only mentions three); Cerchiai (1990) p.8, fig.15, 3-5 (no.42-44)."
+ETP 374,small cup (bucchero),PC 5,Giovanni Colonna,Funerary Texts,Campania (Pontecagnano),-600,-575,kane,Right-handed cup found on a high pedastal in the tomb of a child.,"Colonna (1974), n.11; Modesti, Bailo (1984), n.1; Cristofani (1985), n.52; Cerchiai (1990), p.16"
+ETP 375,fragments of cup (bucchero),PC 6,Giovanni Colonna,Funerary Texts,Campania (Pontecagnano),-600,-575,"acev
+   mi θavna velariiuθiia","Found near the via Cavallegeri, a dwelling at the entrance to a stone circle. The last eight letters of the second inscription were written in a straight, upright fashion. The theta, specifically, is angular, and the rho has an asymmetric curve.","Colonna (1994), Appendix II, A. Lupia. Tavv. III, 2; IV, 1."
+ETP 376,cup (bucchero),PC 7,Giovanni Colonna,Funerary Texts,Campania (Pontecagnano),-550,-525,mi punpunn[a]s larices,Written circularly on the inside of the vessel.,"Colonna (1974), n.13; Agostiniani (1982), p.66, n.78; Modesti, Bailo (1984), n.3; <i>Firenze 1985</i>, p.131, 5.10; Cristofani (1985), n.54."
+ETP 377,small cup (bucchero),PC 8,Giovanni Colonna,Funerary Texts,Campania (Pontecagnano),-550,-525,ra[---],,Unpublished.
+ETP 378,small cup (bucchero),PC 9,Giovanni Colonna,Funerary Texts,Campania (Pontecagnano),-530,-510,mi θanuχvilus muriias,Found at outside of tomb belonging to a man 25-30 years old near stone circle. Bucchero cup with receding hem.,"Colonna (1994), Appendix II, M. Cuozzo. Tavv. I, 2; II, 4."
+ETP 379,two-handled vase (bucchero),PC 10,Giovanni Colonna,Proprietary Texts,Campania (Pontecagnano),-525,-500,"mi zavena apulas sepunes
+  θ[...] kalesias","Found at the tomb of a woman about 60 years old. The first inscription is on the body of the vessel and is written in a continuously expanding script. The second inscription is written on the bottom in very small letters and in different hands, suggesting that it may be very old. The theta is crossed.","Colonna (1974), n.12 (kalesia); Agostiniani (1982), p.65, n.77; Modesti, Bailo (1984), n.2 (kalesias); <i>Firenze 1985</i>"
+ETP 380,fragments of cup (bucchero),PC 11,Giovanni Colonna,Funerary Texts,Campania (Pontecagnano),,,amina[---]s,"Found at the tomb of a woman about 60 years old. The first inscription is on the body of the vessel and is writting in a continuously expanding script. The second inscription is written on the bottom in very small letters and in different hands, suggesting that it may be very old. The theta is crossed.","Modesti, Bailo (1984), n.14; Cristofani (1985), n.59"
+ETP 381,"small barrel, askos (bucchero)",PC 12,Giovanni Colonna,Funerary Texts,Campania (Pontecagnano),,,χace,Found above tomb 2720 at Pontecagnano.,"Colonna (1974), n.14; Modesti, Bailo (1984), n.4; Cristofani (1985), n.55 (with the alternate lettering aceχ, totally unfounded)."
+ETP 382,small lid (bucchero),PC 13,Giovanni Colonna,Funerary Texts,Campania (Pontecagnano),-600,-600,mi θanerial,"Belonged to a woman of 45-55 years of age. The inscription was carved on the inside in a long curve around the edge. The theta has a vertical cross, and the second /i/ was added as a pseudoligature to the /r/.","Colonna (1994), Appendix, Tav.II, 2"
+ETP 383,small cup (bucchero),PC 14,Giovanni Colonna,Funerary Texts,Campania (Pontecagnano),-600,-600,mi araθnas,The theta is pointed.,"Modesti, Bailo (1984), n.10; Cristofani (1985), n.62"
+ETP 384,fragment of cup(?) (bucchero),PC 15,Giovanni Colonna,Funerary Texts,Campania (Pontecagnano),-600,-675,[---]muln[---],"This piece was found in the same site as  PC 6, at a dwelling near the via Cavalleggeri.","Colonna (1994), Appendix, Tav.II, 2"
+ETP 385,fragments of kylix,PC 16,Giovanni Colonna,Funerary Texts,Campania (Pontecagnano),-600,-575,[-?-]muriius ux[---],The kylix lacks a lip. The third /u/ could be another /l/. The inscription was written circularly around the inside of the vessel.,"Colonna (1974), n.15; Modesti, Bailo (1984), n.5; Cristofani (1985), n.56, Tav.II, 3"
+ETP 386,kylix,PC 17,Giovanni Colonna,Funerary Texts,Campania (Pontecagnano),-500,-480,θaneśa sestuminas,"The kylix lacks a foot and a handle. Its precise origin is unknown, although P. Laveglia suspects Salerno. The inscription was written on the inside of the vessel in a spiral near the edge.","Colonna (1974), n.15; Modesti, Bailo (1984), n.5; Cristofani (1985), n.56, Tav.II, 3"
+ETP 387,fragments of small cup,PC 18,Giovanni Colonna,Funerary Texts,Campania (Pontecagnano),-510,-490,mec[---],A single-handled cup with the surviving straps. The inscription was written dextroverse on the outside of the vessel. /m/ was written slanted and /e/ was written horizontally.,"Colonna (1994), Appendix II, G Bailo Modesti, Tav.III, 3"
+ETP 388,kylix,PC 19,Giovanni Colonna,Funerary Texts,Campania (Pontecagnano),-500,-450,[---]xlnies,A single-handled cup with the surviving straps. The inscription was written dextroverse on the outside of the vessel. /m/ was written slanted and /e/ was written horizontally.,"Colonna (1974), n.16; Modesti, Bailo (1984), n.6; Cristofani (1985), n.57"
+ETP 389,bowl,PC 20,Giovanni Colonna,Funerary Texts,Campania (Pontecagnano),-510,-490,ap[---],"Has the same origin as PC 18 (Colonna). The inscription was written upside down on the outside of the bowl, pressed into the base.","Colonna (1994), Appendix II, G Bailo Modesti, Tav.V; IV, 1"
+ETP 390,kylix,PC 21,Giovanni Colonna,Funerary Texts,Campania (Pontecagnano),-450,-450,maiśes tiχ,Hemispherical kylix. The inscription was written in a circle around the foot of the vessel.,"Colonna (1994), Appendix II, L. Cerchiai, Tav.V, 3; VI, 2; VII, 4"
+ETP 391,fragments of wall,PC 22,Giovanni Colonna,Funerary Texts,Campania (Pontecagnano),-510,-490,[---]tiχ,Meagre fragments of a wall. Same origin as PC 18 (Colonna).,"Colonna (1994), Appendix II, G Bailo Modesti, Tavv.V, 2; VI, 4; VII, 1"
+ETP 392,kylix,PC 23,Giovanni Colonna,Funerary Texts,Campania (Pontecagnano),-450,-450,satilas raiśiis,"Hemispherical kylix, from tomb 2955 in a necropolis in the Risorgimento plaza. The inscription was carved on the outside within a ring of stone. Colonna remarks that it is unlikely <b>raiśiis</b> has the reading <b>raimis</b>.","Colonna (1994), Appendix II, G Bailo Modesti, Tavv.V, 2; VI, 4; VII, 1"
+ETP 393,small bowl,PC 24,Giovanni Colonna,Funerary Texts,Campania (Pontecagnano),-450,-450,minanatis,"Hemispherical kylix, from tomb 2955 in a necropolis in the Risorgimento plaza. The inscription starts on the outside at the base of the vessel and continues into a ring of stone. Colonna (1994) writes that <b>minanatis</b> is likely a misspelling of <b>mina[na]tis</b>.","Colonna (1994), Appendix II, G Bailo Modesti, Tavv.V, 2; VI, 4; VII, 1"
+ETP 394,small bowl,PC 25,Giovanni Colonna,Funerary Texts,Campania (Pontecagnano),-450,-450,apices,"Sister of the last bowl, found in the same tomb. The inscription is on the outside and crosses in and out of the ring of stone. The /c/ is moon shaped and the /i/ was added as a pseudoligature.","Colonna (1994), Tav.V, 6; VI, 5; VII, 2"
+ETP 395,small bowl,PC 26,Giovanni Colonna,Funerary Texts,Campania (Pontecagnano),-450,-450,ac,Small Attic bowl with a concave-convex wall. The inscription was written dextroverse on the outside of the vessel.,"L Cerchiai in ""AION ArchStAnt"" III, 1981, p.81, p.40, n.4, fig. 17 and 18, 1"
+ETP 396,amphora,PC 27,Giovanni Colonna,Funerary Texts,Campania (Pontecagnano),-450,-450,pu[---],Wine amphora from Marseilles found in the same tomb as PC 26 (Colonna). The inscription was written on the neck of the vessel after it was fired.,"L Cerchiai in <i>AION ArchStAnt</i> III, 1981, p.81, p.40, n.4, fig. 17 and 18, 1"
+ETP 397,small bowl,PC 28,Giovanni Colonna,Funerary Texts,Campania (Pontecagnano),-600,-500,[---]xpnas,Small bowl with a stone base. The inscription was written on the inside of the vessel in a circle.,"Modesti, Bailo (1984), n.13 ([---]<b>unns</b> dextroverse); Cristofani (1985), n.60"
+ETP 398,small bowls,PC 29-30,Giovanni Colonna,Funerary Texts,Campania (Pontecagnano),-600,-580,cavriius,Two small bowls with stone bases. The inscriptions were written on the inside of the vessels in a spiral and in different hands. The bars of the /w/ are very close together.,"Modesti, Bailo (1984), n.13 ([---]<b>unns</b> dextroverse); Cristofani (1985), n.60"
+ETP 399,olpetta,PC 31,Giovanni Colonna,Funerary Texts,Campania (Pontecagnano),-400,-300,acev,,"Modesti, Bailo (1984), n.12 (perpines); Cristofani (1985), n.64"
+ETP 400,small bowl,PC 32,Giovanni Colonna,Funerary Texts,Campania (Pontecagnano),-400,-350,telpines,"The /t/ crosses horizontally, and the /l/ is a mess.","Modesti, Bailo (1984), n.12 (<i>perpines</i>); Cristofani (1985), n.64"
+ETP 401,small bowl,PC 33-34,Giovanni Colonna,Funerary Texts,Campania (Pontecagnano),-325,-300,eitma peiclnas,Two small bowls with stone heels. The inscription was written on the outside in a circle below the stone. The /t/ and /l/ were laid down backwards.,"Colonna (1984), n.18-19 (<i>leicunas</i>); Modesti, Bailo (1984), n.7; <i>Firenze 1985</i>, p.131, 5.11; Cristofani, 1985, n.58"
+ETP 402,cup (bucchero),FS 1,Giovanni Colonna,Funerary Texts,Fratte di Salerno,-325,-300,tris θafna k[---]χes,The inscription was written on the outside of the vessel.,"Colonna (1990), <i>Fratte</i>, pp.238, n.2 and pp.301-303, n.1 Tav.V, 7; VI, 6"
+ETP 403,bowl (bucchero),FS 2,Giovanni Colonna,Funerary Texts,Fratte di Salerno,-325,-300,peiθrasia naclai caisiie nunies,"Bowl with a receding lip from the same tomb as FS 1 (Colonna). The inscription was written on the outside around the base, upside down.","Colonna (1990), <i>Fratte</i>, pp.238, n.3 and pp.303 s., n.2 Tav.V, 4; VIII, 1, 3"
+ETP 404,oenochoe (bucchero),FS 3,Giovanni Colonna,Funerary Texts,Fratte di Salerno,-325,-300,θθθθIII,The inscription was written dextroverse on the body of the vessel below the attachment of the handle. It is probably a numeric sum or code.,"Colonna (1990), <i>Fratte</i>, pp.304, n.6"
+ETP 405,lekythos (bucchero),FS 4,Giovanni Colonna,Funerary Texts,Fratte di Salerno,-500,-500,stl[ac]ie uφaliies mi,The inscription was written around the body of the vessel.,"Colonna (1974), n.7; Agostiniani (1982), p.66, n.79 (<i>ufaliies</i>); <i>Firenze 1985</i>, p.131, 5.8; Cristofani (1985), n.49"
+ETP 407,kylix,FS 5,Giovanni Colonna,Funerary Texts,Fratte di Salerno,-500,-475,naie,The inscription was written on the inside of the vessel.,"Colonna (1974), n.10; Cristofani (1985), n.51; <i>Fratte 1990</i>, p.236, n.1"
+ETP 408,kylix,FS 6,Giovanni Colonna,Funerary Texts,Fratte di Salerno,-500,-475,cuvsinu,The inscription was written on the inside of the vessel.,"Colonna (1974), n.9; Cristofani (1985), n.50"
+ETP 409,small cup,FS 7,Giovanni Colonna,Funerary Texts,Fratte di Salerno,-500,-475,śpu[---],The inscription was written on the inside of the vessel.,"Colonna (1974), n.8"
+ETP 410,small cup,FS 8,Giovanni Colonna,Funerary Texts,Fratte di Salerno,-500,-475,ati,The inscription was written on the inside of the vessel.,"Colonna, <i>Fratte 1990</i>, p.305, n.7, Tav.VI, 8"
+ETP 411,small cup (bucchero),FS 9,Giovanni Colonna,Funerary Texts,Fratte di Salerno,-500,-475,ra[---],The inscription was written on the inside of the vessel. Another possible reading of the graffiti is <b>ar</b>.,"Colonna, <i>Fratte 1990</i>, pp.262, n.12 and 304, n.8"
+ETP 412,skyphos,FS 10,Giovanni Colonna,Funerary Texts,Fratte di Salerno,-450,-425,θenuta,,"Colonna, <i>Fratte 1990</i>, p.262, n.12 and 304, n.3. Tav.VI, 7"
+ETP 413,kylix,FS 11,Giovanni Colonna,Funerary Texts,Fratte di Salerno,-425,-400,śt[---],,"Colonna, <i>Fratte 1990</i>, p.272, n.2 and 305, n.8"
+ETP 414,cup (bucchero),VE 1,Giovanni Colonna,Funerary Texts,Vico Equense,-550,-525,acvezθi,,"Colonna (1974), n.6; <i>Firenze 1985</i>, p.131, 5, 7; Pandolfini - Prosdocimi (1990) p.44, Tav. II, 9"
+ETP 415,amphora,VE 2,Giovanni Colonna,Funerary Texts,Vico Equense,-500,-400,pape savfi,,"W. Corssen, in <i>Ephemeris epigraphica</i> III (1985), p.182, n.66; J. Zvetaieff, <i>Sylloge inscriptionum Oscarum</i>, Petropoli (1878), p.72, n.133, tav.XVIII, 1; R. S. Conway, <i>The Italic Dialects</i> I, Cambridge (1897), p.53, n.38; Weege, n.67; Vetter, n.133; C. Albore Livadie, in <i>Il commercio etrusco arcaico</i>, Rome (1985), p.140, XII: 9."
+ETP 416,small cup,VE 3,Giovanni Colonna,Funerary Texts,Vico Equense,-450,-400,pai,The inscription was written on the outside of the vessel. The alpha is not crossed.,"Jovino, M. Bonghi, <i>La necropoli preromana di Vico Equense</i>, Cava dei Tirreni (1982), p.74, n.60, tav.116, 5"
+ETP 417,small cup (bucchero),S 1,Giovanni Colonna,Funerary Texts,Stabiae,-600,-575,θanaχvil(u)s mi,The inscription was written dextroverse on the inside of the vessel.,"Colonna (1974), n.5; Cristofani (1985), n.48"
+ETP 418,plates (bucchero),S 2-3,Giovanni Colonna,Funerary Texts,Stabiae,-600,-575,muses,Two flat plates with furrowed edges. The inscription was written on the inside of the vessel.,"<i>REE</i> (1979), n.30 (M. Pandolfini); <i>REE</i> (1985), n.15 (C. Albore Livadie)"
+ETP 419,small bowl (bucchero),S 4,Giovanni Colonna,Funerary Texts,Stabiae,-575,-550,sina,"The bowl has a receding edge. The inscription was written in spiraliform starting from the center of the vessel, and the letters themselves are tall and thinly etched.","<i>REE</i> (1979), n.31 (M. Pandolfini); Cristofani (1990), p.116, n.4"
+ETP 420,small bowl (bucchero),S 5,Giovanni Colonna,Funerary Texts,Stabiae,-525,-550,ita patara vinumaia,"The first two letters run into an /e/, as if the scribe had started to write <b>eta</b> instead. The first /a/ also gives a false start to the /p/.","<i>REE</i> (1979), n.32 (M. Pandolfini: he read it as <i>hai</i> instead of <i>ita</i>); Cristofani (1990), p.116, n.5"
+ETP 421,kylix,S 6,Giovanni Colonna,Funerary Texts,Stabiae,-500,-475,vesinas,,"Unpublished, courtesy of the private collection of C. Albore Livadie."
+ETP 422,fragments of cup (bucchero),P 1,Giovanni Colonna,Funerary Texts,Pompei,-500,-475,mix[---],Found at the temple of Apollo. Inscription was written on the outside of the vessel.,"Colonna (1974), n.1; De Caro (1986), p.61, n.266"
+ETP 423,fragments of cup (bucchero),P 1,Giovanni Colonna,Funerary Texts,Pompei,,,mix[---],Found at the temple of Apollo. Inscription was written on the outside of the vessel.,"Colonna (1974), n.1; De Caro (1986), p.61, n.266"
+ETP 424,fragments of cup (bucchero),P 2,Giovanni Colonna,Funerary Texts,Pompei,,,[---]aives,Found at the temple of Apollo. Inscription was written on the outside of the vessel.,"Colonna (1974), n.2; Cristofani (1985), n.45; De Caro (1986), p.62, n.278"
+ETP 425,fragments of cup (bucchero),P 3,Giovanni Colonna,Funerary Texts,Pompei,,,[---]xrzas[-?-],Found at the temple of Apollo. Inscription was written on the outside of the vessel.,"Colonna (1974), n.3; Cristofani (1985), n.47; De Caro (1986), p.65, n.351"
+ETP 426,fragments of cup (bucchero),P 4,Giovanni Colonna,Funerary Texts,Pompei,,,[m]i lusces,Found at the temple of Apollo. Inscription was written on the outside of the vessel.,"Colonna (1974), n.4; Cristofani (1985), n.47; De Caro (1986), p.63, n.305. Through <i>REE</i> (1983), n.177 (G. Colonna)."
+ETP 427,fragments of cup (bucchero),P 5,Giovanni Colonna,Funerary Texts,Pompei,,,mi,"Base of a cup. The /m/ in the inscription is missing the first two peaks. It could be a χ originating from the center of the cup, or it could also be a θ.","S. Steingräber, in <i>RM</i> 89 (1982), p.372 (<i>itun</i>); Cristofani (1990), p.116 (<i>itun[---]</i>). Tav.VIII, 2"
+ETP 428,bowl,P 6,Giovanni Colonna,Funerary Texts,Pompei,,,aule,,"Unpublished. There is a trace of such an inscriptino in Cristofani (1990), p.116, where he mentions the same <i>au[le]</i> on a kylix in the same area of Pompei."
+ETP 429,fragment of bowl,P 7,Giovanni Colonna,Funerary Texts,Pompei,-310,-290,clacurt,"The fragment is the base of a bowl, and the inscription was written on the outer side. It could possibly be a division or interpretation of <i>cla[vtie] curt[e]</i>. M. Bonghi Jovino considers the possible connection between the Oscan reading <i>glav urt</i>.","R. Arena, in <i>Ricerche a Pompei. L'insula V della Regio VI dalle origini al 79 d.C.</i> (in the care of M. Bonghi Jovino), Rome, 1984, p.70."
+ETP 430,amphora,NS 1,Giovanni Colonna,Funerary Texts,Nocera Superiore,-550,-500,tat,,"C. Albore Livadie, in <i>Il commerci etrusco arcaico</i>, Rome, 1985, pp.132, 138, III: 3"
